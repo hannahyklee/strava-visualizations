@@ -1,0 +1,4058 @@
+{
+    "2025-03-22": {
+        "distance_miles": 10.15320214,
+        "elapsed_time": 6462,
+        "moving_time": 6177,
+        "elevation_gain": 131.4
+    },
+    "2025-03-20": {
+        "distance_miles": 4.4957434592,
+        "elapsed_time": 2750,
+        "moving_time": 2725,
+        "elevation_gain": 111.0
+    },
+    "2025-03-18": {
+        "distance_miles": 4.2714285281999995,
+        "elapsed_time": 2793,
+        "moving_time": 2641,
+        "elevation_gain": 143.0
+    },
+    "2025-03-17": {
+        "distance_miles": 4.2166857431,
+        "elapsed_time": 2590,
+        "moving_time": 2588,
+        "elevation_gain": 96.0
+    },
+    "2025-03-15": {
+        "distance_miles": 6.632327642700001,
+        "elapsed_time": 5383,
+        "moving_time": 5168,
+        "elevation_gain": 35.0
+    },
+    "2025-03-13": {
+        "distance_miles": 5.2980576944,
+        "elapsed_time": 3531,
+        "moving_time": 3161,
+        "elevation_gain": 41.0
+    },
+    "2025-03-10": {
+        "distance_miles": 3.4474284451000003,
+        "elapsed_time": 2021,
+        "moving_time": 2021,
+        "elevation_gain": 72.0
+    },
+    "2025-03-08": {
+        "distance_miles": 13.153492013500001,
+        "elapsed_time": 5931,
+        "moving_time": 5909,
+        "elevation_gain": 30.0
+    },
+    "2025-03-06": {
+        "distance_miles": 2.6138592486000003,
+        "elapsed_time": 1567,
+        "moving_time": 1561,
+        "elevation_gain": 57.0
+    },
+    "2025-03-04": {
+        "distance_miles": 4.9111299727,
+        "elapsed_time": 2976,
+        "moving_time": 2857,
+        "elevation_gain": 82.0
+    },
+    "2025-02-27": {
+        "distance_miles": 3.2361623051,
+        "elapsed_time": 2221,
+        "moving_time": 2179,
+        "elevation_gain": 60.0
+    },
+    "2025-02-25": {
+        "distance_miles": 7.1789477114,
+        "elapsed_time": 4553,
+        "moving_time": 4247,
+        "elevation_gain": 89.0
+    },
+    "2025-02-24": {
+        "distance_miles": 5.0350934872,
+        "elapsed_time": 3037,
+        "moving_time": 3030,
+        "elevation_gain": 108.0
+    },
+    "2025-02-22": {
+        "distance_miles": 9.631871871,
+        "elapsed_time": 7301,
+        "moving_time": 6234,
+        "elevation_gain": 287.0
+    },
+    "2025-02-20": {
+        "distance_miles": 5.017570825,
+        "elapsed_time": 3877,
+        "moving_time": 3450,
+        "elevation_gain": 34.0
+    },
+    "2025-02-18": {
+        "distance_miles": 8.2309909515,
+        "elapsed_time": 4699,
+        "moving_time": 4189,
+        "elevation_gain": 23.0
+    },
+    "2025-02-17": {
+        "distance_miles": 4.058236138100001,
+        "elapsed_time": 2576,
+        "moving_time": 2477,
+        "elevation_gain": 135.0
+    },
+    "2025-02-15": {
+        "distance_miles": 15.1647456663,
+        "elapsed_time": 10546,
+        "moving_time": 9264,
+        "elevation_gain": 238.0
+    },
+    "2025-02-13": {
+        "distance_miles": 5.1414722024,
+        "elapsed_time": 4784,
+        "moving_time": 3510,
+        "elevation_gain": 85.0
+    },
+    "2025-02-11": {
+        "distance_miles": 6.621764335700001,
+        "elapsed_time": 4115,
+        "moving_time": 3412,
+        "elevation_gain": 64.0
+    },
+    "2025-02-10": {
+        "distance_miles": 4.1661682808,
+        "elapsed_time": 2422,
+        "moving_time": 2422,
+        "elevation_gain": 126.0
+    },
+    "2025-02-08": {
+        "distance_miles": 11.841094324400002,
+        "elapsed_time": 7900,
+        "moving_time": 7102,
+        "elevation_gain": 294.0
+    },
+    "2025-02-07": {
+        "distance_miles": 6.0274229742,
+        "elapsed_time": 3649,
+        "moving_time": 3567,
+        "elevation_gain": 172.0
+    },
+    "2025-02-05": {
+        "distance_miles": 4.2069923555,
+        "elapsed_time": 3274,
+        "moving_time": 2956,
+        "elevation_gain": 100.0
+    },
+    "2025-02-04": {
+        "distance_miles": 7.259601667200001,
+        "elapsed_time": 4514,
+        "moving_time": 4202,
+        "elevation_gain": 184.0
+    },
+    "2025-02-03": {
+        "distance_miles": 4.4271441008000005,
+        "elapsed_time": 3110,
+        "moving_time": 2888,
+        "elevation_gain": 108.0
+    },
+    "2025-02-01": {
+        "distance_miles": 12.9074912346,
+        "elapsed_time": 7869,
+        "moving_time": 7393,
+        "elevation_gain": 110.0
+    },
+    "2025-01-30": {
+        "distance_miles": 4.488162733,
+        "elapsed_time": 3523,
+        "moving_time": 2801,
+        "elevation_gain": 61.0
+    },
+    "2025-01-28": {
+        "distance_miles": 6.6177254242000005,
+        "elapsed_time": 4408,
+        "moving_time": 3750,
+        "elevation_gain": 74.0
+    },
+    "2025-01-27": {
+        "distance_miles": 3.4094005399,
+        "elapsed_time": 2223,
+        "moving_time": 2168,
+        "elevation_gain": 74.0
+    },
+    "2025-01-25": {
+        "distance_miles": 4.0576769042,
+        "elapsed_time": 3145,
+        "moving_time": 2624,
+        "elevation_gain": 49.0
+    },
+    "2025-01-24": {
+        "distance_miles": 2.6253546121,
+        "elapsed_time": 1627,
+        "moving_time": 1627,
+        "elevation_gain": 60.0
+    },
+    "2025-01-20": {
+        "distance_miles": 4.7790264981,
+        "elapsed_time": 3435,
+        "moving_time": 3021,
+        "elevation_gain": 133.0
+    },
+    "2025-01-18": {
+        "distance_miles": 8.1010622754,
+        "elapsed_time": 4440,
+        "moving_time": 4241,
+        "elevation_gain": 17.0
+    },
+    "2025-01-16": {
+        "distance_miles": 6.117521769200001,
+        "elapsed_time": 3911,
+        "moving_time": 3680,
+        "elevation_gain": 73.0
+    },
+    "2025-01-14": {
+        "distance_miles": 5.3009781381000005,
+        "elapsed_time": 3228,
+        "moving_time": 3060,
+        "elevation_gain": 75.0
+    },
+    "2025-01-13": {
+        "distance_miles": 5.0353420356,
+        "elapsed_time": 3244,
+        "moving_time": 3237,
+        "elevation_gain": 113.0
+    },
+    "2025-01-10": {
+        "distance_miles": 5.211562851200001,
+        "elapsed_time": 4498,
+        "moving_time": 3625,
+        "elevation_gain": 120.0
+    },
+    "2025-01-09": {
+        "distance_miles": 4.1860521528,
+        "elapsed_time": 3938,
+        "moving_time": 2886,
+        "elevation_gain": 75.0
+    },
+    "2025-01-08": {
+        "distance_miles": 5.0185028815,
+        "elapsed_time": 3143,
+        "moving_time": 3097,
+        "elevation_gain": 104.0
+    },
+    "2025-01-05": {
+        "distance_miles": 6.5143292898,
+        "elapsed_time": 4256,
+        "moving_time": 3967,
+        "elevation_gain": 175.0
+    },
+    "2025-01-04": {
+        "distance_miles": 6.9038046326,
+        "elapsed_time": 4452,
+        "moving_time": 4077,
+        "elevation_gain": 58.0
+    },
+    "2025-01-01": {
+        "distance_miles": 10.5974202679,
+        "elapsed_time": 6724,
+        "moving_time": 6270,
+        "elevation_gain": 192.0
+    },
+    "2024-12-31": {
+        "distance_miles": 4.6279090708999995,
+        "elapsed_time": 3056,
+        "moving_time": 2861,
+        "elevation_gain": 148.0
+    },
+    "2024-12-28": {
+        "distance_miles": 11.7189949229,
+        "elapsed_time": 8449,
+        "moving_time": 7267,
+        "elevation_gain": 361.0
+    },
+    "2024-12-26": {
+        "distance_miles": 5.4560102026,
+        "elapsed_time": 3547,
+        "moving_time": 3319,
+        "elevation_gain": 158.0
+    },
+    "2024-12-24": {
+        "distance_miles": 3.7455001138000004,
+        "elapsed_time": 2484,
+        "moving_time": 2265,
+        "elevation_gain": 89.0
+    },
+    "2024-12-20": {
+        "distance_miles": 8.7761818669,
+        "elapsed_time": 5949,
+        "moving_time": 5233,
+        "elevation_gain": 103.0
+    },
+    "2024-12-19": {
+        "distance_miles": 4.0094585146,
+        "elapsed_time": 2623,
+        "moving_time": 2480,
+        "elevation_gain": 132.0
+    },
+    "2024-12-17": {
+        "distance_miles": 4.4767295066,
+        "elapsed_time": 2682,
+        "moving_time": 2678,
+        "elevation_gain": 89.0
+    },
+    "2024-12-15": {
+        "distance_miles": 7.756014959100001,
+        "elapsed_time": 4983,
+        "moving_time": 4640,
+        "elevation_gain": 209.0
+    },
+    "2024-12-12": {
+        "distance_miles": 4.5470065667,
+        "elapsed_time": 3854,
+        "moving_time": 2867,
+        "elevation_gain": 82.0
+    },
+    "2024-12-11": {
+        "distance_miles": 3.4018198137,
+        "elapsed_time": 2193,
+        "moving_time": 2145,
+        "elevation_gain": 63.0
+    },
+    "2024-12-08": {
+        "distance_miles": 4.2841044966,
+        "elapsed_time": 3035,
+        "moving_time": 2669,
+        "elevation_gain": 142.0
+    },
+    "2024-12-07": {
+        "distance_miles": 2.9129251109,
+        "elapsed_time": 3606,
+        "moving_time": 1980,
+        "elevation_gain": 65.0
+    },
+    "2024-12-01": {
+        "distance_miles": 26.628729930800002,
+        "elapsed_time": 12740,
+        "moving_time": 12731,
+        "elevation_gain": 380.0
+    },
+    "2024-11-30": {
+        "distance_miles": 3.0809438293,
+        "elapsed_time": 2247,
+        "moving_time": 2055,
+        "elevation_gain": 47.0
+    },
+    "2024-11-28": {
+        "distance_miles": 2.1951794688,
+        "elapsed_time": 1290,
+        "moving_time": 1287,
+        "elevation_gain": 44.0
+    },
+    "2024-11-27": {
+        "distance_miles": 4.0185305312,
+        "elapsed_time": 2592,
+        "moving_time": 2417,
+        "elevation_gain": 133.0
+    },
+    "2024-11-26": {
+        "distance_miles": 4.4703915224,
+        "elapsed_time": 2750,
+        "moving_time": 2734,
+        "elevation_gain": 116.0
+    },
+    "2024-11-23": {
+        "distance_miles": 8.6320237949,
+        "elapsed_time": 5507,
+        "moving_time": 5218,
+        "elevation_gain": 164.0
+    },
+    "2024-11-22": {
+        "distance_miles": 1.8303104176,
+        "elapsed_time": 1126,
+        "moving_time": 1121,
+        "elevation_gain": 7.0
+    },
+    "2024-11-21": {
+        "distance_miles": 4.1213674316999995,
+        "elapsed_time": 4027,
+        "moving_time": 2964,
+        "elevation_gain": 79.0
+    },
+    "2024-11-20": {
+        "distance_miles": 6.072037412,
+        "elapsed_time": 3724,
+        "moving_time": 3594,
+        "elevation_gain": 152.0
+    },
+    "2024-11-19": {
+        "distance_miles": 6.1278365277999995,
+        "elapsed_time": 3730,
+        "moving_time": 3725,
+        "elevation_gain": 146.0
+    },
+    "2024-11-16": {
+        "distance_miles": 13.6456799826,
+        "elapsed_time": 8224,
+        "moving_time": 8080,
+        "elevation_gain": 32.0
+    },
+    "2024-11-15": {
+        "distance_miles": 6.0082847474,
+        "elapsed_time": 3918,
+        "moving_time": 3769,
+        "elevation_gain": 188.0
+    },
+    "2024-11-14": {
+        "distance_miles": 6.4311277128999995,
+        "elapsed_time": 4092,
+        "moving_time": 4063,
+        "elevation_gain": 175.0
+    },
+    "2024-11-13": {
+        "distance_miles": 8.1810327231,
+        "elapsed_time": 4961,
+        "moving_time": 4708,
+        "elevation_gain": 150.0
+    },
+    "2024-11-11": {
+        "distance_miles": 6.452937835,
+        "elapsed_time": 4079,
+        "moving_time": 4003,
+        "elevation_gain": 136.0
+    },
+    "2024-11-09": {
+        "distance_miles": 20.461125659,
+        "elapsed_time": 14898,
+        "moving_time": 13046,
+        "elevation_gain": 391.0
+    },
+    "2024-11-08": {
+        "distance_miles": 8.2428591376,
+        "elapsed_time": 5311,
+        "moving_time": 5166,
+        "elevation_gain": 232.0
+    },
+    "2024-11-07": {
+        "distance_miles": 6.212280846700001,
+        "elapsed_time": 4105,
+        "moving_time": 4002,
+        "elevation_gain": 142.0
+    },
+    "2024-11-06": {
+        "distance_miles": 9.1856653559,
+        "elapsed_time": 5647,
+        "moving_time": 5453,
+        "elevation_gain": 151.0
+    },
+    "2024-11-04": {
+        "distance_miles": 6.0503515641000005,
+        "elapsed_time": 4123,
+        "moving_time": 4050,
+        "elevation_gain": 132.0
+    },
+    "2024-11-03": {
+        "distance_miles": 6.9291565694,
+        "elapsed_time": 5223,
+        "moving_time": 4627,
+        "elevation_gain": 163.0
+    },
+    "2024-11-02": {
+        "distance_miles": 17.772453342,
+        "elapsed_time": 9703,
+        "moving_time": 8546,
+        "elevation_gain": 30.0
+    },
+    "2024-10-31": {
+        "distance_miles": 7.6237872103,
+        "elapsed_time": 5273,
+        "moving_time": 4745,
+        "elevation_gain": 179.0
+    },
+    "2024-10-30": {
+        "distance_miles": 8.828439168000001,
+        "elapsed_time": 5798,
+        "moving_time": 5499,
+        "elevation_gain": 217.0
+    },
+    "2024-10-29": {
+        "distance_miles": 5.0613774805,
+        "elapsed_time": 3276,
+        "moving_time": 3265,
+        "elevation_gain": 102.0
+    },
+    "2024-10-27": {
+        "distance_miles": 11.192755823,
+        "elapsed_time": 8641,
+        "moving_time": 7590,
+        "elevation_gain": 138.0
+    },
+    "2024-10-25": {
+        "distance_miles": 6.8055037404,
+        "elapsed_time": 4891,
+        "moving_time": 4341,
+        "elevation_gain": 93.0
+    },
+    "2024-10-23": {
+        "distance_miles": 9.7318504649,
+        "elapsed_time": 6254,
+        "moving_time": 5889,
+        "elevation_gain": 299.0
+    },
+    "2024-10-22": {
+        "distance_miles": 6.3910492834,
+        "elapsed_time": 3975,
+        "moving_time": 3760,
+        "elevation_gain": 163.0
+    },
+    "2024-10-21": {
+        "distance_miles": 8.453876729200001,
+        "elapsed_time": 5328,
+        "moving_time": 5193,
+        "elevation_gain": 277.0
+    },
+    "2024-10-20": {
+        "distance_miles": 7.8989924262,
+        "elapsed_time": 5054,
+        "moving_time": 4811,
+        "elevation_gain": 191.0
+    },
+    "2024-10-19": {
+        "distance_miles": 16.6992834879,
+        "elapsed_time": 11159,
+        "moving_time": 10169,
+        "elevation_gain": 305.0
+    },
+    "2024-10-17": {
+        "distance_miles": 6.4239198093,
+        "elapsed_time": 4097,
+        "moving_time": 4073,
+        "elevation_gain": 149.0
+    },
+    "2024-10-16": {
+        "distance_miles": 6.041590233,
+        "elapsed_time": 3966,
+        "moving_time": 3927,
+        "elevation_gain": 149.0
+    },
+    "2024-10-15": {
+        "distance_miles": 12.1231346213,
+        "elapsed_time": 8075,
+        "moving_time": 7391,
+        "elevation_gain": 245.0
+    },
+    "2024-10-13": {
+        "distance_miles": 11.567628947300001,
+        "elapsed_time": 8603,
+        "moving_time": 6497,
+        "elevation_gain": 258.0
+    },
+    "2024-10-12": {
+        "distance_miles": 5.1212155078,
+        "elapsed_time": 4675,
+        "moving_time": 3363,
+        "elevation_gain": 89.0
+    },
+    "2024-10-11": {
+        "distance_miles": 5.0401887294,
+        "elapsed_time": 3737,
+        "moving_time": 3336,
+        "elevation_gain": 152.0
+    },
+    "2024-10-10": {
+        "distance_miles": 6.509482596,
+        "elapsed_time": 4235,
+        "moving_time": 4009,
+        "elevation_gain": 152.0
+    },
+    "2024-10-09": {
+        "distance_miles": 10.032034795,
+        "elapsed_time": 6311,
+        "moving_time": 5761,
+        "elevation_gain": 180.0
+    },
+    "2024-10-08": {
+        "distance_miles": 7.325342719,
+        "elapsed_time": 5146,
+        "moving_time": 4606,
+        "elevation_gain": 179.0
+    },
+    "2024-10-05": {
+        "distance_miles": 18.0196347258,
+        "elapsed_time": 11338,
+        "moving_time": 10674,
+        "elevation_gain": 229.0
+    },
+    "2024-10-03": {
+        "distance_miles": 6.1205664871000005,
+        "elapsed_time": 4074,
+        "moving_time": 3882,
+        "elevation_gain": 181.0
+    },
+    "2024-10-02": {
+        "distance_miles": 7.1354517414,
+        "elapsed_time": 4720,
+        "moving_time": 4396,
+        "elevation_gain": 214.0
+    },
+    "2024-10-01": {
+        "distance_miles": 5.226475755200001,
+        "elapsed_time": 3681,
+        "moving_time": 3542,
+        "elevation_gain": 103.0
+    },
+    "2024-09-30": {
+        "distance_miles": 10.0183024959,
+        "elapsed_time": 6472,
+        "moving_time": 5618,
+        "elevation_gain": 152.0
+    },
+    "2024-09-28": {
+        "distance_miles": 20.0274708381,
+        "elapsed_time": 16184,
+        "moving_time": 13016,
+        "elevation_gain": 383.0
+    },
+    "2024-09-26": {
+        "distance_miles": 4.1531816268999995,
+        "elapsed_time": 3550,
+        "moving_time": 2879,
+        "elevation_gain": 75.0
+    },
+    "2024-09-25": {
+        "distance_miles": 9.5230698089,
+        "elapsed_time": 6268,
+        "moving_time": 6090,
+        "elevation_gain": 199.0
+    },
+    "2024-09-24": {
+        "distance_miles": 7.0595823423,
+        "elapsed_time": 4936,
+        "moving_time": 4685,
+        "elevation_gain": 196.0
+    },
+    "2024-09-23": {
+        "distance_miles": 5.2106307947,
+        "elapsed_time": 3243,
+        "moving_time": 3234,
+        "elevation_gain": 109.0
+    },
+    "2024-09-21": {
+        "distance_miles": 15.4931402398,
+        "elapsed_time": 11708,
+        "moving_time": 10208,
+        "elevation_gain": 232.0
+    },
+    "2024-09-19": {
+        "distance_miles": 8.006738157600001,
+        "elapsed_time": 5260,
+        "moving_time": 5039,
+        "elevation_gain": 178.0
+    },
+    "2024-09-18": {
+        "distance_miles": 6.2049486689,
+        "elapsed_time": 4155,
+        "moving_time": 3599,
+        "elevation_gain": 151.0
+    },
+    "2024-09-17": {
+        "distance_miles": 7.7552071768,
+        "elapsed_time": 5277,
+        "moving_time": 4787,
+        "elevation_gain": 220.0
+    },
+    "2024-09-16": {
+        "distance_miles": 5.1696824457999995,
+        "elapsed_time": 3760,
+        "moving_time": 3329,
+        "elevation_gain": 144.0
+    },
+    "2024-09-14": {
+        "distance_miles": 21.1361831134,
+        "elapsed_time": 41118,
+        "moving_time": 40157,
+        "elevation_gain": 1657.0
+    },
+    "2024-09-12": {
+        "distance_miles": 4.501708620800001,
+        "elapsed_time": 3175,
+        "moving_time": 2853,
+        "elevation_gain": 102.0
+    },
+    "2024-09-11": {
+        "distance_miles": 5.1601133324,
+        "elapsed_time": 3306,
+        "moving_time": 3256,
+        "elevation_gain": 146.0
+    },
+    "2024-09-10": {
+        "distance_miles": 9.5993741677,
+        "elapsed_time": 6203,
+        "moving_time": 5433,
+        "elevation_gain": 171.0
+    },
+    "2024-09-09": {
+        "distance_miles": 5.6306775907,
+        "elapsed_time": 3662,
+        "moving_time": 3455,
+        "elevation_gain": 93.0
+    },
+    "2024-09-07": {
+        "distance_miles": 16.555746786900002,
+        "elapsed_time": 10912,
+        "moving_time": 9811,
+        "elevation_gain": 94.0
+    },
+    "2024-09-05": {
+        "distance_miles": 7.066293149100001,
+        "elapsed_time": 4858,
+        "moving_time": 4515,
+        "elevation_gain": 198.0
+    },
+    "2024-09-04": {
+        "distance_miles": 8.0400436432,
+        "elapsed_time": 5702,
+        "moving_time": 5126,
+        "elevation_gain": 158.0
+    },
+    "2024-09-03": {
+        "distance_miles": 6.1608313278999995,
+        "elapsed_time": 4190,
+        "moving_time": 3967,
+        "elevation_gain": 188.0
+    },
+    "2024-09-02": {
+        "distance_miles": 5.0807021186000005,
+        "elapsed_time": 3356,
+        "moving_time": 3259,
+        "elevation_gain": 113.0
+    },
+    "2024-09-01": {
+        "distance_miles": 10.0660859258,
+        "elapsed_time": 7098,
+        "moving_time": 6657,
+        "elevation_gain": 141.0
+    },
+    "2024-08-30": {
+        "distance_miles": 6.1443028593,
+        "elapsed_time": 4321,
+        "moving_time": 3879,
+        "elevation_gain": 199.0
+    },
+    "2024-08-28": {
+        "distance_miles": 6.7983579739,
+        "elapsed_time": 4879,
+        "moving_time": 4471,
+        "elevation_gain": 187.0
+    },
+    "2024-08-27": {
+        "distance_miles": 10.038869876,
+        "elapsed_time": 6145,
+        "moving_time": 6138,
+        "elevation_gain": 194.0
+    },
+    "2024-08-26": {
+        "distance_miles": 5.042425665,
+        "elapsed_time": 3272,
+        "moving_time": 3200,
+        "elevation_gain": 165.0
+    },
+    "2024-08-24": {
+        "distance_miles": 17.635751722,
+        "elapsed_time": 12356,
+        "moving_time": 10748,
+        "elevation_gain": 367.8
+    },
+    "2024-08-22": {
+        "distance_miles": 6.0659479762,
+        "elapsed_time": 3780,
+        "moving_time": 3708,
+        "elevation_gain": 223.1
+    },
+    "2024-08-21": {
+        "distance_miles": 5.8073955031,
+        "elapsed_time": 4156,
+        "moving_time": 3830,
+        "elevation_gain": 184.8
+    },
+    "2024-08-20": {
+        "distance_miles": 6.541793888,
+        "elapsed_time": 4816,
+        "moving_time": 4018,
+        "elevation_gain": 48.8
+    },
+    "2024-08-19": {
+        "distance_miles": 5.6629267456,
+        "elapsed_time": 3742,
+        "moving_time": 3408,
+        "elevation_gain": 119.9
+    },
+    "2024-08-18": {
+        "distance_miles": 7.3885361497,
+        "elapsed_time": 4910,
+        "moving_time": 4555,
+        "elevation_gain": 166.0
+    },
+    "2024-08-16": {
+        "distance_miles": 8.0496127566,
+        "elapsed_time": 5856,
+        "moving_time": 5407,
+        "elevation_gain": 370.6
+    },
+    "2024-08-14": {
+        "distance_miles": 6.1119294302,
+        "elapsed_time": 3441,
+        "moving_time": 3228,
+        "elevation_gain": 69.4
+    },
+    "2024-08-13": {
+        "distance_miles": 9.8689249075,
+        "elapsed_time": 6292,
+        "moving_time": 5643,
+        "elevation_gain": 171.9
+    },
+    "2024-08-12": {
+        "distance_miles": 5.0534239317,
+        "elapsed_time": 3441,
+        "moving_time": 3150,
+        "elevation_gain": 139.5
+    },
+    "2024-08-10": {
+        "distance_miles": 13.9418254012,
+        "elapsed_time": 9792,
+        "moving_time": 8631,
+        "elevation_gain": 334.7
+    },
+    "2024-08-09": {
+        "distance_miles": 6.0665072101,
+        "elapsed_time": 4239,
+        "moving_time": 3766,
+        "elevation_gain": 124.6
+    },
+    "2024-08-08": {
+        "distance_miles": 7.7015207224,
+        "elapsed_time": 6529,
+        "moving_time": 4986,
+        "elevation_gain": 225.6
+    },
+    "2024-08-07": {
+        "distance_miles": 8.1254200186,
+        "elapsed_time": 5434,
+        "moving_time": 5041,
+        "elevation_gain": 213.0
+    },
+    "2024-08-03": {
+        "distance_miles": 14.1097198454,
+        "elapsed_time": 10277,
+        "moving_time": 8867,
+        "elevation_gain": 116.0
+    },
+    "2024-08-01": {
+        "distance_miles": 10.594002727400001,
+        "elapsed_time": 7921,
+        "moving_time": 6762,
+        "elevation_gain": 80.4
+    },
+    "2024-07-30": {
+        "distance_miles": 4.3164157886000005,
+        "elapsed_time": 2693,
+        "moving_time": 2600,
+        "elevation_gain": 38.1
+    },
+    "2024-07-25": {
+        "distance_miles": 6.9584231435,
+        "elapsed_time": 5342,
+        "moving_time": 4656,
+        "elevation_gain": 131.4
+    },
+    "2024-07-24": {
+        "distance_miles": 7.848661375200001,
+        "elapsed_time": 5662,
+        "moving_time": 5168,
+        "elevation_gain": 80.3
+    },
+    "2024-07-23": {
+        "distance_miles": 7.2177212617999995,
+        "elapsed_time": 5332,
+        "moving_time": 4285,
+        "elevation_gain": 83.1
+    },
+    "2024-07-22": {
+        "distance_miles": 4.0138702487,
+        "elapsed_time": 2552,
+        "moving_time": 2497,
+        "elevation_gain": 72.0
+    },
+    "2024-07-20": {
+        "distance_miles": 14.070884157900002,
+        "elapsed_time": 11064,
+        "moving_time": 8931,
+        "elevation_gain": 424.0
+    },
+    "2024-07-18": {
+        "distance_miles": 7.810198510299999,
+        "elapsed_time": 6256,
+        "moving_time": 4861,
+        "elevation_gain": 129.5
+    },
+    "2024-07-17": {
+        "distance_miles": 8.206322522799999,
+        "elapsed_time": 6599,
+        "moving_time": 5097,
+        "elevation_gain": 99.4
+    },
+    "2024-07-16": {
+        "distance_miles": 5.0357769953,
+        "elapsed_time": 3360,
+        "moving_time": 3163,
+        "elevation_gain": 74.6
+    },
+    "2024-07-13": {
+        "distance_miles": 14.8080787123,
+        "elapsed_time": 11185,
+        "moving_time": 8768,
+        "elevation_gain": 261.3
+    },
+    "2024-07-11": {
+        "distance_miles": 8.9232603826,
+        "elapsed_time": 6722,
+        "moving_time": 5457,
+        "elevation_gain": 153.7
+    },
+    "2024-07-09": {
+        "distance_miles": 4.0290938382,
+        "elapsed_time": 2395,
+        "moving_time": 2376,
+        "elevation_gain": 77.4
+    },
+    "2024-06-30": {
+        "distance_miles": 9.0008696205,
+        "elapsed_time": 5586,
+        "moving_time": 4984,
+        "elevation_gain": 40.4
+    },
+    "2024-06-24": {
+        "distance_miles": 8.2363968792,
+        "elapsed_time": 6040,
+        "moving_time": 4984,
+        "elevation_gain": 174.1
+    },
+    "2024-06-19": {
+        "distance_miles": 5.6809465046000005,
+        "elapsed_time": 3961,
+        "moving_time": 3348,
+        "elevation_gain": 29.8
+    },
+    "2024-06-17": {
+        "distance_miles": 1.007863762,
+        "elapsed_time": 693,
+        "moving_time": 693,
+        "elevation_gain": 0
+    },
+    "2024-06-14": {
+        "distance_miles": 9.017957323000001,
+        "elapsed_time": 6210,
+        "moving_time": 5537,
+        "elevation_gain": 42.7
+    },
+    "2024-06-11": {
+        "distance_miles": 4.0848308169,
+        "elapsed_time": 2749,
+        "moving_time": 2557,
+        "elevation_gain": 69.9
+    },
+    "2024-06-08": {
+        "distance_miles": 11.6930216151,
+        "elapsed_time": 7558,
+        "moving_time": 6733,
+        "elevation_gain": 218.1
+    },
+    "2024-06-06": {
+        "distance_miles": 9.8851426906,
+        "elapsed_time": 6444,
+        "moving_time": 5685,
+        "elevation_gain": 80.2
+    },
+    "2024-06-04": {
+        "distance_miles": 6.679116879,
+        "elapsed_time": 4140,
+        "moving_time": 3943,
+        "elevation_gain": 59.1
+    },
+    "2024-06-03": {
+        "distance_miles": 6.1027952765,
+        "elapsed_time": 3935,
+        "moving_time": 3876,
+        "elevation_gain": 78.8
+    },
+    "2024-06-02": {
+        "distance_miles": 2.999979188,
+        "elapsed_time": 1800,
+        "moving_time": 1800,
+        "elevation_gain": 0
+    },
+    "2024-06-01": {
+        "distance_miles": 12.8144098588,
+        "elapsed_time": 6581,
+        "moving_time": 6545,
+        "elevation_gain": 0.0
+    },
+    "2024-05-31": {
+        "distance_miles": 1.60313718,
+        "elapsed_time": 1167,
+        "moving_time": 1147,
+        "elevation_gain": 0.0
+    },
+    "2024-05-30": {
+        "distance_miles": 5.227780634299999,
+        "elapsed_time": 4131,
+        "moving_time": 3260,
+        "elevation_gain": 75.4
+    },
+    "2024-05-28": {
+        "distance_miles": 6.457163157799999,
+        "elapsed_time": 4987,
+        "moving_time": 4402,
+        "elevation_gain": 45.8
+    },
+    "2024-05-25": {
+        "distance_miles": 9.297574273,
+        "elapsed_time": 6537,
+        "moving_time": 5549,
+        "elevation_gain": 52.4
+    },
+    "2024-05-23": {
+        "distance_miles": 7.752038184700001,
+        "elapsed_time": 5251,
+        "moving_time": 4914,
+        "elevation_gain": 126.5
+    },
+    "2024-05-21": {
+        "distance_miles": 6.631954820100001,
+        "elapsed_time": 4342,
+        "moving_time": 4061,
+        "elevation_gain": 42.9
+    },
+    "2024-05-20": {
+        "distance_miles": 7.813553913700001,
+        "elapsed_time": 4266,
+        "moving_time": 4180,
+        "elevation_gain": 87.7
+    },
+    "2024-05-18": {
+        "distance_miles": 14.244992312099999,
+        "elapsed_time": 9053,
+        "moving_time": 8265,
+        "elevation_gain": 104.4
+    },
+    "2024-05-16": {
+        "distance_miles": 9.5904885624,
+        "elapsed_time": 6467,
+        "moving_time": 5756,
+        "elevation_gain": 145.6
+    },
+    "2024-05-14": {
+        "distance_miles": 6.0400368055,
+        "elapsed_time": 4199,
+        "moving_time": 3849,
+        "elevation_gain": 42.6
+    },
+    "2024-05-13": {
+        "distance_miles": 6.0481767656,
+        "elapsed_time": 3286,
+        "moving_time": 3175,
+        "elevation_gain": 77.7
+    },
+    "2024-05-11": {
+        "distance_miles": 15.7535568259,
+        "elapsed_time": 11592,
+        "moving_time": 10101,
+        "elevation_gain": 342.4
+    },
+    "2024-05-09": {
+        "distance_miles": 6.0254967241,
+        "elapsed_time": 4641,
+        "moving_time": 4241,
+        "elevation_gain": 156.7
+    },
+    "2024-05-07": {
+        "distance_miles": 6.3630254512999995,
+        "elapsed_time": 4632,
+        "moving_time": 4279,
+        "elevation_gain": 44.9
+    },
+    "2024-05-06": {
+        "distance_miles": 6.004991481099999,
+        "elapsed_time": 3675,
+        "moving_time": 3675,
+        "elevation_gain": 0
+    },
+    "2024-05-04": {
+        "distance_miles": 14.706733102200001,
+        "elapsed_time": 8967,
+        "moving_time": 8455,
+        "elevation_gain": 67.4
+    },
+    "2024-05-02": {
+        "distance_miles": 8.137971712799999,
+        "elapsed_time": 5750,
+        "moving_time": 5199,
+        "elevation_gain": 61.0
+    },
+    "2024-04-29": {
+        "distance_miles": 0.5000172437,
+        "elapsed_time": 300,
+        "moving_time": 300,
+        "elevation_gain": 0
+    },
+    "2024-04-27": {
+        "distance_miles": 11.862780172299999,
+        "elapsed_time": 14007,
+        "moving_time": 7982,
+        "elevation_gain": 250.6
+    },
+    "2024-04-25": {
+        "distance_miles": 8.7090116618,
+        "elapsed_time": 5448,
+        "moving_time": 5182,
+        "elevation_gain": 102.3
+    },
+    "2024-04-23": {
+        "distance_miles": 6.4906550547,
+        "elapsed_time": 4169,
+        "moving_time": 3929,
+        "elevation_gain": 48.7
+    },
+    "2024-04-22": {
+        "distance_miles": 4.0404649275,
+        "elapsed_time": 2534,
+        "moving_time": 2486,
+        "elevation_gain": 15.9
+    },
+    "2024-04-20": {
+        "distance_miles": 12.970311842700001,
+        "elapsed_time": 10268,
+        "moving_time": 9522,
+        "elevation_gain": 287.0
+    },
+    "2024-04-18": {
+        "distance_miles": 8.3173615205,
+        "elapsed_time": 5298,
+        "moving_time": 5170,
+        "elevation_gain": 57.8
+    },
+    "2024-04-16": {
+        "distance_miles": 6.5240848145,
+        "elapsed_time": 4174,
+        "moving_time": 3879,
+        "elevation_gain": 46.6
+    },
+    "2024-04-14": {
+        "distance_miles": 10.0307299159,
+        "elapsed_time": 6520,
+        "moving_time": 6130,
+        "elevation_gain": 304.9
+    },
+    "2024-04-11": {
+        "distance_miles": 8.4267228165,
+        "elapsed_time": 5411,
+        "moving_time": 5213,
+        "elevation_gain": 75.4
+    },
+    "2024-04-10": {
+        "distance_miles": 3.226779603,
+        "elapsed_time": 2204,
+        "moving_time": 2087,
+        "elevation_gain": 59.7
+    },
+    "2024-04-09": {
+        "distance_miles": 6.264848833299999,
+        "elapsed_time": 4174,
+        "moving_time": 3864,
+        "elevation_gain": 54.6
+    },
+    "2024-04-06": {
+        "distance_miles": 12.292582493,
+        "elapsed_time": 7849,
+        "moving_time": 7526,
+        "elevation_gain": 165.9
+    },
+    "2024-04-04": {
+        "distance_miles": 8.2455310329,
+        "elapsed_time": 5348,
+        "moving_time": 5333,
+        "elevation_gain": 88.7
+    },
+    "2024-04-02": {
+        "distance_miles": 6.013193578299999,
+        "elapsed_time": 4489,
+        "moving_time": 3885,
+        "elevation_gain": 67.4
+    },
+    "2024-03-31": {
+        "distance_miles": 6.7713904725,
+        "elapsed_time": 3967,
+        "moving_time": 3948,
+        "elevation_gain": 3.5
+    },
+    "2024-03-28": {
+        "distance_miles": 7.8577333918,
+        "elapsed_time": 4359,
+        "moving_time": 4184,
+        "elevation_gain": 56.1
+    },
+    "2024-03-26": {
+        "distance_miles": 6.6850199035,
+        "elapsed_time": 5036,
+        "moving_time": 4451,
+        "elevation_gain": 54.6
+    },
+    "2024-03-25": {
+        "distance_miles": 1.0462023527,
+        "elapsed_time": 653,
+        "moving_time": 647,
+        "elevation_gain": 0.0
+    },
+    "2024-03-23": {
+        "distance_miles": 10.055709030100001,
+        "elapsed_time": 6171,
+        "moving_time": 6143,
+        "elevation_gain": 53.1
+    },
+    "2024-03-21": {
+        "distance_miles": 9.039705308,
+        "elapsed_time": 6101,
+        "moving_time": 5824,
+        "elevation_gain": 225.2
+    },
+    "2024-03-18": {
+        "distance_miles": 5.545114804,
+        "elapsed_time": 3757,
+        "moving_time": 3716,
+        "elevation_gain": 75.0
+    },
+    "2024-03-16": {
+        "distance_miles": 9.3703989542,
+        "elapsed_time": 5976,
+        "moving_time": 5218,
+        "elevation_gain": 66.7
+    },
+    "2024-03-15": {
+        "distance_miles": 6.3440114987000005,
+        "elapsed_time": 4006,
+        "moving_time": 3936,
+        "elevation_gain": 85.7
+    },
+    "2024-03-13": {
+        "distance_miles": 5.0838089736,
+        "elapsed_time": 3658,
+        "moving_time": 3210,
+        "elevation_gain": 70.2
+    },
+    "2024-03-09": {
+        "distance_miles": 11.020263233400001,
+        "elapsed_time": 7704,
+        "moving_time": 6800,
+        "elevation_gain": 156.6
+    },
+    "2024-03-07": {
+        "distance_miles": 7.9053925475,
+        "elapsed_time": 5333,
+        "moving_time": 4912,
+        "elevation_gain": 81.8
+    },
+    "2024-03-05": {
+        "distance_miles": 5.1756476074,
+        "elapsed_time": 3157,
+        "moving_time": 3122,
+        "elevation_gain": 74.5
+    },
+    "2024-03-04": {
+        "distance_miles": 1.0736048138,
+        "elapsed_time": 694,
+        "moving_time": 694,
+        "elevation_gain": 0
+    },
+    "2024-02-29": {
+        "distance_miles": 7.251213158700001,
+        "elapsed_time": 4800,
+        "moving_time": 4573,
+        "elevation_gain": 110.0
+    },
+    "2024-02-27": {
+        "distance_miles": 4.071719888800001,
+        "elapsed_time": 2660,
+        "moving_time": 2630,
+        "elevation_gain": 69.7
+    },
+    "2024-02-26": {
+        "distance_miles": 2.0000068377,
+        "elapsed_time": 1260,
+        "moving_time": 1260,
+        "elevation_gain": 0
+    },
+    "2024-02-24": {
+        "distance_miles": 8.5143361275,
+        "elapsed_time": 5692,
+        "moving_time": 5298,
+        "elevation_gain": 32.6
+    },
+    "2024-02-22": {
+        "distance_miles": 5.1313438551,
+        "elapsed_time": 3102,
+        "moving_time": 3012,
+        "elevation_gain": 74.7
+    },
+    "2024-02-20": {
+        "distance_miles": 3.6019634128,
+        "elapsed_time": 2496,
+        "moving_time": 2350,
+        "elevation_gain": 82.6
+    },
+    "2024-02-19": {
+        "distance_miles": 2.9067114009,
+        "elapsed_time": 1930,
+        "moving_time": 1920,
+        "elevation_gain": 66.1
+    },
+    "2024-02-17": {
+        "distance_miles": 7.0229214532999995,
+        "elapsed_time": 4448,
+        "moving_time": 4364,
+        "elevation_gain": 113.2
+    },
+    "2024-02-15": {
+        "distance_miles": 5.0403751407,
+        "elapsed_time": 3126,
+        "moving_time": 3051,
+        "elevation_gain": 74.6
+    },
+    "2024-02-13": {
+        "distance_miles": 4.0303987173,
+        "elapsed_time": 2598,
+        "moving_time": 2493,
+        "elevation_gain": 69.3
+    },
+    "2024-02-10": {
+        "distance_miles": 6.7830722473,
+        "elapsed_time": 4052,
+        "moving_time": 4031,
+        "elevation_gain": 3.6
+    },
+    "2024-02-08": {
+        "distance_miles": 6.8071814421,
+        "elapsed_time": 4070,
+        "moving_time": 3858,
+        "elevation_gain": 54.4
+    },
+    "2024-02-06": {
+        "distance_miles": 4.2123361461,
+        "elapsed_time": 2750,
+        "moving_time": 2712,
+        "elevation_gain": 70.0
+    },
+    "2024-02-03": {
+        "distance_miles": 6.171456772,
+        "elapsed_time": 4019,
+        "moving_time": 3803,
+        "elevation_gain": 64.5
+    },
+    "2024-02-01": {
+        "distance_miles": 5.551949885,
+        "elapsed_time": 3864,
+        "moving_time": 3614,
+        "elevation_gain": 85.2
+    },
+    "2024-01-30": {
+        "distance_miles": 3.8185733433999998,
+        "elapsed_time": 2407,
+        "moving_time": 2340,
+        "elevation_gain": 67.4
+    },
+    "2024-01-28": {
+        "distance_miles": 3.0836778617,
+        "elapsed_time": 1911,
+        "moving_time": 1849,
+        "elevation_gain": 0
+    },
+    "2024-01-25": {
+        "distance_miles": 2.0363570412,
+        "elapsed_time": 1372,
+        "moving_time": 1362,
+        "elevation_gain": 28.8
+    },
+    "2024-01-22": {
+        "distance_miles": 3.9913144814,
+        "elapsed_time": 2601,
+        "moving_time": 2531,
+        "elevation_gain": 68.8
+    },
+    "2024-01-20": {
+        "distance_miles": 4.0230044024,
+        "elapsed_time": 2482,
+        "moving_time": 2444,
+        "elevation_gain": 6.0
+    },
+    "2024-01-18": {
+        "distance_miles": 3.756809066,
+        "elapsed_time": 2451,
+        "moving_time": 2402,
+        "elevation_gain": 66.4
+    },
+    "2024-01-16": {
+        "distance_miles": 3.3370108184,
+        "elapsed_time": 2292,
+        "moving_time": 2063,
+        "elevation_gain": 62.7
+    },
+    "2024-01-10": {
+        "distance_miles": 3.4742095352,
+        "elapsed_time": 2406,
+        "moving_time": 2343,
+        "elevation_gain": 64.6
+    },
+    "2024-01-08": {
+        "distance_miles": 3.4351874363999997,
+        "elapsed_time": 2606,
+        "moving_time": 2452,
+        "elevation_gain": 53.1
+    },
+    "2024-01-06": {
+        "distance_miles": 2.3044164906,
+        "elapsed_time": 1876,
+        "moving_time": 1802,
+        "elevation_gain": 62.5
+    },
+    "2024-01-03": {
+        "distance_miles": 1.4758803991999998,
+        "elapsed_time": 1206,
+        "moving_time": 1115,
+        "elevation_gain": 23.7
+    },
+    "2023-11-07": {
+        "distance_miles": 4.167535297,
+        "elapsed_time": 3004,
+        "moving_time": 2686,
+        "elevation_gain": 26.1
+    },
+    "2023-11-05": {
+        "distance_miles": 6.627605223100001,
+        "elapsed_time": 4644,
+        "moving_time": 4362,
+        "elevation_gain": 0.0
+    },
+    "2023-11-04": {
+        "distance_miles": 1.4335650341,
+        "elapsed_time": 1041,
+        "moving_time": 975,
+        "elevation_gain": 3.9
+    },
+    "2023-11-02": {
+        "distance_miles": 1.5331708054,
+        "elapsed_time": 1273,
+        "moving_time": 1202,
+        "elevation_gain": 11.2
+    },
+    "2023-10-29": {
+        "distance_miles": 5.2484101515,
+        "elapsed_time": 3441,
+        "moving_time": 3381,
+        "elevation_gain": 65.2
+    },
+    "2023-10-27": {
+        "distance_miles": 0.5342547858,
+        "elapsed_time": 407,
+        "moving_time": 353,
+        "elevation_gain": 0.0
+    },
+    "2023-10-26": {
+        "distance_miles": 6.606602883300001,
+        "elapsed_time": 5109,
+        "moving_time": 4543,
+        "elevation_gain": 66.39999999999999
+    },
+    "2023-10-22": {
+        "distance_miles": 15.7866137631,
+        "elapsed_time": 10961,
+        "moving_time": 10081,
+        "elevation_gain": 219.3
+    },
+    "2023-10-19": {
+        "distance_miles": 8.2982854308,
+        "elapsed_time": 5685,
+        "moving_time": 5345,
+        "elevation_gain": 58.7
+    },
+    "2023-10-17": {
+        "distance_miles": 8.6105243583,
+        "elapsed_time": 6908,
+        "moving_time": 5789,
+        "elevation_gain": 105.0
+    },
+    "2023-10-16": {
+        "distance_miles": 5.0740534489,
+        "elapsed_time": 3710,
+        "moving_time": 3498,
+        "elevation_gain": 78.4
+    },
+    "2023-10-14": {
+        "distance_miles": 15.0919209851,
+        "elapsed_time": 10260,
+        "moving_time": 9611,
+        "elevation_gain": 184.4
+    },
+    "2023-10-12": {
+        "distance_miles": 7.158815291,
+        "elapsed_time": 5540,
+        "moving_time": 4972,
+        "elevation_gain": 99.8
+    },
+    "2023-10-10": {
+        "distance_miles": 14.029190163800001,
+        "elapsed_time": 9808,
+        "moving_time": 9173,
+        "elevation_gain": 109.7
+    },
+    "2023-10-08": {
+        "distance_miles": 7.684743705400001,
+        "elapsed_time": 4389,
+        "moving_time": 4055,
+        "elevation_gain": 141.0
+    },
+    "2023-10-06": {
+        "distance_miles": 4.0257384348,
+        "elapsed_time": 2555,
+        "moving_time": 2445,
+        "elevation_gain": 68.0
+    },
+    "2023-10-05": {
+        "distance_miles": 6.0149955542,
+        "elapsed_time": 4590,
+        "moving_time": 4217,
+        "elevation_gain": 79.9
+    },
+    "2023-10-03": {
+        "distance_miles": 8.2534224446,
+        "elapsed_time": 6008,
+        "moving_time": 5679,
+        "elevation_gain": 122.7
+    },
+    "2023-10-02": {
+        "distance_miles": 4.0020641997,
+        "elapsed_time": 2729,
+        "moving_time": 2667,
+        "elevation_gain": 72.3
+    },
+    "2023-09-30": {
+        "distance_miles": 16.1564537823,
+        "elapsed_time": 15043,
+        "moving_time": 11058,
+        "elevation_gain": 457.90000000000003
+    },
+    "2023-09-28": {
+        "distance_miles": 6.166485804,
+        "elapsed_time": 4054,
+        "moving_time": 3938,
+        "elevation_gain": 39.3
+    },
+    "2023-09-26": {
+        "distance_miles": 7.0060201621000004,
+        "elapsed_time": 3807,
+        "moving_time": 3623,
+        "elevation_gain": 61.4
+    },
+    "2023-09-25": {
+        "distance_miles": 4.0220723459,
+        "elapsed_time": 3000,
+        "moving_time": 2692,
+        "elevation_gain": 83.1
+    },
+    "2023-09-23": {
+        "distance_miles": 8.1308880834,
+        "elapsed_time": 5400,
+        "moving_time": 5342,
+        "elevation_gain": 679.2
+    },
+    "2023-09-21": {
+        "distance_miles": 8.0101556981,
+        "elapsed_time": 8367,
+        "moving_time": 5748,
+        "elevation_gain": 145.4
+    },
+    "2023-09-19": {
+        "distance_miles": 7.0208087918999995,
+        "elapsed_time": 5257,
+        "moving_time": 4641,
+        "elevation_gain": 141.8
+    },
+    "2023-09-18": {
+        "distance_miles": 2.05673801,
+        "elapsed_time": 1321,
+        "moving_time": 1261,
+        "elevation_gain": 34.2
+    },
+    "2023-09-17": {
+        "distance_miles": 7.0321798812,
+        "elapsed_time": 5608,
+        "moving_time": 5123,
+        "elevation_gain": 565.0
+    },
+    "2023-09-14": {
+        "distance_miles": 8.2106721198,
+        "elapsed_time": 5801,
+        "moving_time": 5088,
+        "elevation_gain": 133.8
+    },
+    "2023-09-12": {
+        "distance_miles": 6.056254588600001,
+        "elapsed_time": 4699,
+        "moving_time": 3920,
+        "elevation_gain": 138.2
+    },
+    "2023-09-11": {
+        "distance_miles": 3.2086977069000002,
+        "elapsed_time": 2117,
+        "moving_time": 1956,
+        "elevation_gain": 73.4
+    },
+    "2023-09-10": {
+        "distance_miles": 5.847846755200001,
+        "elapsed_time": 4701,
+        "moving_time": 3674,
+        "elevation_gain": 177.2
+    },
+    "2023-09-08": {
+        "distance_miles": 7.1981480753,
+        "elapsed_time": 4338,
+        "moving_time": 4203,
+        "elevation_gain": 144.6
+    },
+    "2023-09-06": {
+        "distance_miles": 6.717082647100001,
+        "elapsed_time": 4257,
+        "moving_time": 4067,
+        "elevation_gain": 154.2
+    },
+    "2023-09-04": {
+        "distance_miles": 6.2211043149,
+        "elapsed_time": 3872,
+        "moving_time": 3772,
+        "elevation_gain": 133.2
+    },
+    "2023-09-02": {
+        "distance_miles": 7.3680930438,
+        "elapsed_time": 6007,
+        "moving_time": 4426,
+        "elevation_gain": 56.2
+    },
+    "2023-08-27": {
+        "distance_miles": 2.5988842075000003,
+        "elapsed_time": 2001,
+        "moving_time": 1599,
+        "elevation_gain": 66.4
+    },
+    "2023-08-25": {
+        "distance_miles": 3.8008642699,
+        "elapsed_time": 2642,
+        "moving_time": 2299,
+        "elevation_gain": 75.0
+    },
+    "2023-08-22": {
+        "distance_miles": 5.6381961797999995,
+        "elapsed_time": 3654,
+        "moving_time": 3234,
+        "elevation_gain": 125.4
+    },
+    "2023-08-19": {
+        "distance_miles": 7.0336711716,
+        "elapsed_time": 4119,
+        "moving_time": 3960,
+        "elevation_gain": 61.4
+    },
+    "2023-08-18": {
+        "distance_miles": 3.8017341893000003,
+        "elapsed_time": 2333,
+        "moving_time": 2243,
+        "elevation_gain": 52.8
+    },
+    "2023-08-16": {
+        "distance_miles": 3.3155113818000004,
+        "elapsed_time": 2137,
+        "moving_time": 2016,
+        "elevation_gain": 40.6
+    },
+    "2023-08-15": {
+        "distance_miles": 1.0000344874,
+        "elapsed_time": 600,
+        "moving_time": 600,
+        "elevation_gain": 0
+    },
+    "2023-08-10": {
+        "distance_miles": 3.3809417481,
+        "elapsed_time": 1956,
+        "moving_time": 1924,
+        "elevation_gain": 38.4
+    },
+    "2023-08-07": {
+        "distance_miles": 5.6836183999,
+        "elapsed_time": 3749,
+        "moving_time": 3383,
+        "elevation_gain": 152.4
+    },
+    "2023-08-04": {
+        "distance_miles": 3.8630013698999996,
+        "elapsed_time": 2670,
+        "moving_time": 2361,
+        "elevation_gain": 51.2
+    },
+    "2023-08-02": {
+        "distance_miles": 2.1364599093,
+        "elapsed_time": 1298,
+        "moving_time": 1210,
+        "elevation_gain": 34.8
+    },
+    "2023-07-16": {
+        "distance_miles": 9.7462662721,
+        "elapsed_time": 5884,
+        "moving_time": 5568,
+        "elevation_gain": 240.6
+    },
+    "2023-07-13": {
+        "distance_miles": 5.8541847394,
+        "elapsed_time": 3334,
+        "moving_time": 3282,
+        "elevation_gain": 114.0
+    },
+    "2023-07-11": {
+        "distance_miles": 4.1802734025,
+        "elapsed_time": 2387,
+        "moving_time": 2336,
+        "elevation_gain": 59.4
+    },
+    "2023-07-09": {
+        "distance_miles": 8.316926560799999,
+        "elapsed_time": 5286,
+        "moving_time": 4967,
+        "elevation_gain": 216.4
+    },
+    "2023-07-07": {
+        "distance_miles": 6.275225729,
+        "elapsed_time": 3707,
+        "moving_time": 3632,
+        "elevation_gain": 121.2
+    },
+    "2023-07-05": {
+        "distance_miles": 2.213323502,
+        "elapsed_time": 1474,
+        "moving_time": 1321,
+        "elevation_gain": 26.8
+    },
+    "2023-07-02": {
+        "distance_miles": 6.0083468845,
+        "elapsed_time": 4083,
+        "moving_time": 3575,
+        "elevation_gain": 116.6
+    },
+    "2023-06-30": {
+        "distance_miles": 3.6328455515,
+        "elapsed_time": 2092,
+        "moving_time": 2076,
+        "elevation_gain": 42.0
+    },
+    "2023-06-26": {
+        "distance_miles": 5.4286698786,
+        "elapsed_time": 3564,
+        "moving_time": 3339,
+        "elevation_gain": 70.2
+    },
+    "2023-06-24": {
+        "distance_miles": 6.749766761700001,
+        "elapsed_time": 4132,
+        "moving_time": 3858,
+        "elevation_gain": 65.4
+    },
+    "2023-06-22": {
+        "distance_miles": 3.7877533418000002,
+        "elapsed_time": 2367,
+        "moving_time": 2153,
+        "elevation_gain": 57.4
+    },
+    "2023-06-20": {
+        "distance_miles": 3.3490654158,
+        "elapsed_time": 1955,
+        "moving_time": 1810,
+        "elevation_gain": 55.2
+    },
+    "2023-06-18": {
+        "distance_miles": 4.0464922262,
+        "elapsed_time": 2302,
+        "moving_time": 2296,
+        "elevation_gain": 86.6
+    },
+    "2023-06-15": {
+        "distance_miles": 5.110776475,
+        "elapsed_time": 3461,
+        "moving_time": 3012,
+        "elevation_gain": 176.4
+    },
+    "2023-06-13": {
+        "distance_miles": 4.4902753944,
+        "elapsed_time": 3062,
+        "moving_time": 2648,
+        "elevation_gain": 103.6
+    },
+    "2023-05-30": {
+        "distance_miles": 5.8575401428,
+        "elapsed_time": 3621,
+        "moving_time": 3417,
+        "elevation_gain": 122.2
+    },
+    "2023-05-28": {
+        "distance_miles": 7.1955383171000005,
+        "elapsed_time": 4626,
+        "moving_time": 4082,
+        "elevation_gain": 199.6
+    },
+    "2023-05-25": {
+        "distance_miles": 5.1591191387999995,
+        "elapsed_time": 3229,
+        "moving_time": 3060,
+        "elevation_gain": 57.6
+    },
+    "2023-05-23": {
+        "distance_miles": 5.0940615951,
+        "elapsed_time": 3273,
+        "moving_time": 3130,
+        "elevation_gain": 95.6
+    },
+    "2023-05-20": {
+        "distance_miles": 13.1784089906,
+        "elapsed_time": 7470,
+        "moving_time": 7391,
+        "elevation_gain": 8.8
+    },
+    "2023-05-16": {
+        "distance_miles": 3.8203131822,
+        "elapsed_time": 2518,
+        "moving_time": 2425,
+        "elevation_gain": 85.0
+    },
+    "2023-05-13": {
+        "distance_miles": 4.247754293100001,
+        "elapsed_time": 2405,
+        "moving_time": 2397,
+        "elevation_gain": 56.4
+    },
+    "2023-05-10": {
+        "distance_miles": 2.0906027295,
+        "elapsed_time": 1431,
+        "moving_time": 1224,
+        "elevation_gain": 60.0
+    },
+    "2023-05-09": {
+        "distance_miles": 4.6318237082,
+        "elapsed_time": 3096,
+        "moving_time": 2924,
+        "elevation_gain": 69.0
+    },
+    "2023-05-07": {
+        "distance_miles": 3.6938020466,
+        "elapsed_time": 2273,
+        "moving_time": 2119,
+        "elevation_gain": 49.6
+    },
+    "2023-05-04": {
+        "distance_miles": 3.9146373,
+        "elapsed_time": 2385,
+        "moving_time": 2325,
+        "elevation_gain": 48.8
+    },
+    "2023-05-03": {
+        "distance_miles": 2.0584157117,
+        "elapsed_time": 3060,
+        "moving_time": 2436,
+        "elevation_gain": 40.8
+    },
+    "2023-05-02": {
+        "distance_miles": 4.4430511984,
+        "elapsed_time": 2882,
+        "moving_time": 2651,
+        "elevation_gain": 44.8
+    },
+    "2023-04-30": {
+        "distance_miles": 4.7100543171,
+        "elapsed_time": 2598,
+        "moving_time": 2567,
+        "elevation_gain": 57.4
+    },
+    "2023-04-27": {
+        "distance_miles": 3.484648568,
+        "elapsed_time": 1987,
+        "moving_time": 1904,
+        "elevation_gain": 44.6
+    },
+    "2023-04-26": {
+        "distance_miles": 0.9387673068,
+        "elapsed_time": 1661,
+        "moving_time": 1161,
+        "elevation_gain": 8.4
+    },
+    "2023-04-25": {
+        "distance_miles": 4.4057689384,
+        "elapsed_time": 3423,
+        "moving_time": 2780,
+        "elevation_gain": 47.8
+    },
+    "2023-04-23": {
+        "distance_miles": 3.8167092304,
+        "elapsed_time": 2140,
+        "moving_time": 2054,
+        "elevation_gain": 55.4
+    },
+    "2023-04-20": {
+        "distance_miles": 3.3780834415,
+        "elapsed_time": 2025,
+        "moving_time": 1891,
+        "elevation_gain": 42.4
+    },
+    "2023-04-19": {
+        "distance_miles": 2.5000240814000003,
+        "elapsed_time": 2400,
+        "moving_time": 2400,
+        "elevation_gain": 0
+    },
+    "2023-04-18": {
+        "distance_miles": 3.6484419636,
+        "elapsed_time": 2111,
+        "moving_time": 2011,
+        "elevation_gain": 77.6
+    },
+    "2023-04-16": {
+        "distance_miles": 3.292644929,
+        "elapsed_time": 2206,
+        "moving_time": 2121,
+        "elevation_gain": 0
+    },
+    "2023-04-13": {
+        "distance_miles": 3.8925786295,
+        "elapsed_time": 2400,
+        "moving_time": 2171,
+        "elevation_gain": 59.6
+    },
+    "2023-04-10": {
+        "distance_miles": 4.0999922693,
+        "elapsed_time": 2557,
+        "moving_time": 2410,
+        "elevation_gain": 50.6
+    },
+    "2023-04-07": {
+        "distance_miles": 5.7729715497,
+        "elapsed_time": 3380,
+        "moving_time": 3171,
+        "elevation_gain": 106.4
+    },
+    "2023-04-05": {
+        "distance_miles": 4.7303110117,
+        "elapsed_time": 2783,
+        "moving_time": 2627,
+        "elevation_gain": 63.6
+    },
+    "2023-04-03": {
+        "distance_miles": 3.5280824009,
+        "elapsed_time": 2056,
+        "moving_time": 1980,
+        "elevation_gain": 44.6
+    },
+    "2023-04-01": {
+        "distance_miles": 4.5496163249,
+        "elapsed_time": 2500,
+        "moving_time": 2344,
+        "elevation_gain": 96.2
+    },
+    "2023-03-29": {
+        "distance_miles": 3.7450651541,
+        "elapsed_time": 2180,
+        "moving_time": 2077,
+        "elevation_gain": 57.4
+    },
+    "2023-03-27": {
+        "distance_miles": 4.252663124,
+        "elapsed_time": 2443,
+        "moving_time": 2281,
+        "elevation_gain": 40.8
+    },
+    "2023-03-19": {
+        "distance_miles": 2.0311375248,
+        "elapsed_time": 1306,
+        "moving_time": 1184,
+        "elevation_gain": 44.4
+    },
+    "2023-03-17": {
+        "distance_miles": 3.7216394673999997,
+        "elapsed_time": 2230,
+        "moving_time": 2129,
+        "elevation_gain": 48.2
+    },
+    "2023-03-15": {
+        "distance_miles": 4.3505290565,
+        "elapsed_time": 2491,
+        "moving_time": 2313,
+        "elevation_gain": 78.6
+    },
+    "2023-03-12": {
+        "distance_miles": 3.7529565658000004,
+        "elapsed_time": 2073,
+        "moving_time": 1992,
+        "elevation_gain": 66.8
+    },
+    "2023-03-09": {
+        "distance_miles": 5.0827526429,
+        "elapsed_time": 2847,
+        "moving_time": 2797,
+        "elevation_gain": 100.4
+    },
+    "2023-03-07": {
+        "distance_miles": 3.8415640704,
+        "elapsed_time": 2237,
+        "moving_time": 2114,
+        "elevation_gain": 55.2
+    },
+    "2023-03-03": {
+        "distance_miles": 3.4577432036999998,
+        "elapsed_time": 1852,
+        "moving_time": 1843,
+        "elevation_gain": 41.4
+    },
+    "2023-03-01": {
+        "distance_miles": 3.2039131502,
+        "elapsed_time": 1753,
+        "moving_time": 1735,
+        "elevation_gain": 90.8
+    },
+    "2023-02-28": {
+        "distance_miles": 3.3737338445000002,
+        "elapsed_time": 1960,
+        "moving_time": 1848,
+        "elevation_gain": 66.8
+    },
+    "2023-02-23": {
+        "distance_miles": 5.775643445,
+        "elapsed_time": 3333,
+        "moving_time": 3288,
+        "elevation_gain": 94.2
+    },
+    "2023-02-21": {
+        "distance_miles": 3.3222221886,
+        "elapsed_time": 1838,
+        "moving_time": 1800,
+        "elevation_gain": 68.2
+    },
+    "2023-02-18": {
+        "distance_miles": 4.2491834464,
+        "elapsed_time": 2408,
+        "moving_time": 2287,
+        "elevation_gain": 64.2
+    },
+    "2023-02-15": {
+        "distance_miles": 3.4086548947,
+        "elapsed_time": 1918,
+        "moving_time": 1905,
+        "elevation_gain": 37.0
+    },
+    "2023-02-14": {
+        "distance_miles": 1.3972769676999999,
+        "elapsed_time": 742,
+        "moving_time": 739,
+        "elevation_gain": 7.2
+    },
+    "2023-02-02": {
+        "distance_miles": 3.7857028175000003,
+        "elapsed_time": 2330,
+        "moving_time": 2104,
+        "elevation_gain": 51.2
+    },
+    "2023-01-31": {
+        "distance_miles": 3.5435545388,
+        "elapsed_time": 2053,
+        "moving_time": 1948,
+        "elevation_gain": 48.0
+    },
+    "2023-01-26": {
+        "distance_miles": 4.2117769122,
+        "elapsed_time": 2436,
+        "moving_time": 2292,
+        "elevation_gain": 55.2
+    },
+    "2023-01-24": {
+        "distance_miles": 4.1081322294,
+        "elapsed_time": 2407,
+        "moving_time": 2249,
+        "elevation_gain": 53.6
+    },
+    "2023-01-19": {
+        "distance_miles": 3.3449022301,
+        "elapsed_time": 2123,
+        "moving_time": 1887,
+        "elevation_gain": 43.2
+    },
+    "2023-01-16": {
+        "distance_miles": 6.7426209952,
+        "elapsed_time": 3887,
+        "moving_time": 3825,
+        "elevation_gain": 132.4
+    },
+    "2023-01-13": {
+        "distance_miles": 5.2910983392,
+        "elapsed_time": 3159,
+        "moving_time": 3096,
+        "elevation_gain": 65.0
+    },
+    "2023-01-10": {
+        "distance_miles": 3.3460206979,
+        "elapsed_time": 2100,
+        "moving_time": 1949,
+        "elevation_gain": 37.6
+    },
+    "2023-01-06": {
+        "distance_miles": 3.3276902533999997,
+        "elapsed_time": 1983,
+        "moving_time": 1882,
+        "elevation_gain": 41.4
+    },
+    "2023-01-03": {
+        "distance_miles": 3.3089248492,
+        "elapsed_time": 2029,
+        "moving_time": 1804,
+        "elevation_gain": 39.4
+    },
+    "2022-12-28": {
+        "distance_miles": 3.1257446784,
+        "elapsed_time": 1878,
+        "moving_time": 1873,
+        "elevation_gain": 55.6
+    },
+    "2022-12-21": {
+        "distance_miles": 2.5760177547,
+        "elapsed_time": 2111,
+        "moving_time": 1831,
+        "elevation_gain": 81.0
+    },
+    "2022-11-24": {
+        "distance_miles": 2.6850062281000002,
+        "elapsed_time": 1634,
+        "moving_time": 1556,
+        "elevation_gain": 47.9
+    },
+    "2022-11-20": {
+        "distance_miles": 4.501708620800001,
+        "elapsed_time": 2608,
+        "moving_time": 2338,
+        "elevation_gain": 32.8
+    },
+    "2022-11-17": {
+        "distance_miles": 3.7441330976000002,
+        "elapsed_time": 2307,
+        "moving_time": 2077,
+        "elevation_gain": 44.1
+    },
+    "2022-11-10": {
+        "distance_miles": 5.4642744369,
+        "elapsed_time": 3172,
+        "moving_time": 2976,
+        "elevation_gain": 59.7
+    },
+    "2022-11-01": {
+        "distance_miles": 3.562319943,
+        "elapsed_time": 2029,
+        "moving_time": 1978,
+        "elevation_gain": 43.5
+    },
+    "2022-10-25": {
+        "distance_miles": 3.8290123762,
+        "elapsed_time": 2291,
+        "moving_time": 2091,
+        "elevation_gain": 32.2
+    },
+    "2022-10-12": {
+        "distance_miles": 3.2854370254,
+        "elapsed_time": 1939,
+        "moving_time": 1801,
+        "elevation_gain": 31.1
+    },
+    "2022-10-09": {
+        "distance_miles": 6.1369085444,
+        "elapsed_time": 3196,
+        "moving_time": 3185,
+        "elevation_gain": 113.3
+    },
+    "2022-10-03": {
+        "distance_miles": 3.1535199621000003,
+        "elapsed_time": 1856,
+        "moving_time": 1782,
+        "elevation_gain": 30.7
+    },
+    "2022-10-01": {
+        "distance_miles": 6.7045309529,
+        "elapsed_time": 4181,
+        "moving_time": 3903,
+        "elevation_gain": 108.6
+    },
+    "2022-09-23": {
+        "distance_miles": 3.7119460798,
+        "elapsed_time": 2291,
+        "moving_time": 2115,
+        "elevation_gain": 44.2
+    },
+    "2022-09-19": {
+        "distance_miles": 2.2129506794,
+        "elapsed_time": 1537,
+        "moving_time": 1271,
+        "elevation_gain": 25.3
+    },
+    "2022-09-02": {
+        "distance_miles": 2.418375932,
+        "elapsed_time": 1492,
+        "moving_time": 1394,
+        "elevation_gain": 34.4
+    },
+    "2022-08-28": {
+        "distance_miles": 4.3057903445,
+        "elapsed_time": 2740,
+        "moving_time": 2527,
+        "elevation_gain": 58.4
+    },
+    "2022-08-24": {
+        "distance_miles": 6.136100762100001,
+        "elapsed_time": 3553,
+        "moving_time": 3374,
+        "elevation_gain": 60.9
+    },
+    "2022-08-20": {
+        "distance_miles": 1.1567442535999999,
+        "elapsed_time": 798,
+        "moving_time": 711,
+        "elevation_gain": 20.5
+    },
+    "2022-08-16": {
+        "distance_miles": 3.8765472577,
+        "elapsed_time": 2196,
+        "moving_time": 2119,
+        "elevation_gain": 43.7
+    },
+    "2022-08-12": {
+        "distance_miles": 3.7722812039,
+        "elapsed_time": 2491,
+        "moving_time": 2101,
+        "elevation_gain": 43.8
+    },
+    "2022-08-09": {
+        "distance_miles": 2.4049543184,
+        "elapsed_time": 1419,
+        "moving_time": 1374,
+        "elevation_gain": 31.9
+    },
+    "2022-08-07": {
+        "distance_miles": 4.0518360168,
+        "elapsed_time": 2563,
+        "moving_time": 2174,
+        "elevation_gain": 38.9
+    },
+    "2022-08-05": {
+        "distance_miles": 4.0709121065,
+        "elapsed_time": 2651,
+        "moving_time": 2283,
+        "elevation_gain": 50.4
+    },
+    "2022-07-31": {
+        "distance_miles": 2.4229119403,
+        "elapsed_time": 1611,
+        "moving_time": 1463,
+        "elevation_gain": 33.3
+    },
+    "2022-07-24": {
+        "distance_miles": 26.3638394735,
+        "elapsed_time": 15284,
+        "moving_time": 15256,
+        "elevation_gain": 412.8
+    },
+    "2022-07-23": {
+        "distance_miles": 0.1102933525,
+        "elapsed_time": 79,
+        "moving_time": 73,
+        "elevation_gain": 3.1
+    },
+    "2022-07-21": {
+        "distance_miles": 4.1165207379,
+        "elapsed_time": 2563,
+        "moving_time": 2403,
+        "elevation_gain": 51.5
+    },
+    "2022-07-19": {
+        "distance_miles": 4.1183227138000005,
+        "elapsed_time": 3007,
+        "moving_time": 2517,
+        "elevation_gain": 39.1
+    },
+    "2022-07-17": {
+        "distance_miles": 8.3071710361,
+        "elapsed_time": 5700,
+        "moving_time": 4912,
+        "elevation_gain": 102.3
+    },
+    "2022-07-14": {
+        "distance_miles": 6.2444057274,
+        "elapsed_time": 3405,
+        "moving_time": 3340,
+        "elevation_gain": 59.0
+    },
+    "2022-07-13": {
+        "distance_miles": 2.4955502102,
+        "elapsed_time": 1844,
+        "moving_time": 1467,
+        "elevation_gain": 34.1
+    },
+    "2022-07-12": {
+        "distance_miles": 4.068799445100001,
+        "elapsed_time": 2702,
+        "moving_time": 2256,
+        "elevation_gain": 37.9
+    },
+    "2022-07-10": {
+        "distance_miles": 8.2537331301,
+        "elapsed_time": 5980,
+        "moving_time": 4973,
+        "elevation_gain": 110.3
+    },
+    "2022-07-08": {
+        "distance_miles": 6.262301212200001,
+        "elapsed_time": 3921,
+        "moving_time": 3628,
+        "elevation_gain": 60.6
+    },
+    "2022-07-07": {
+        "distance_miles": 1.6848474665,
+        "elapsed_time": 1389,
+        "moving_time": 986,
+        "elevation_gain": 25.5
+    },
+    "2022-07-06": {
+        "distance_miles": 4.2919337712,
+        "elapsed_time": 2712,
+        "moving_time": 2433,
+        "elevation_gain": 52.9
+    },
+    "2022-07-03": {
+        "distance_miles": 17.5929392601,
+        "elapsed_time": 11807,
+        "moving_time": 10140,
+        "elevation_gain": 404.7
+    },
+    "2022-06-30": {
+        "distance_miles": 6.233593872,
+        "elapsed_time": 3710,
+        "moving_time": 3555,
+        "elevation_gain": 61.8
+    },
+    "2022-06-28": {
+        "distance_miles": 6.1977407653,
+        "elapsed_time": 3975,
+        "moving_time": 3497,
+        "elevation_gain": 85.2
+    },
+    "2022-06-26": {
+        "distance_miles": 7.1673280737,
+        "elapsed_time": 6094,
+        "moving_time": 4581,
+        "elevation_gain": 100.3
+    },
+    "2022-06-24": {
+        "distance_miles": 2.2419687051,
+        "elapsed_time": 1702,
+        "moving_time": 1326,
+        "elevation_gain": 29.9
+    },
+    "2022-06-23": {
+        "distance_miles": 6.0616605163,
+        "elapsed_time": 3883,
+        "moving_time": 3519,
+        "elevation_gain": 67.8
+    },
+    "2022-06-21": {
+        "distance_miles": 5.0614396176000005,
+        "elapsed_time": 3042,
+        "moving_time": 2817,
+        "elevation_gain": 46.7
+    },
+    "2022-06-19": {
+        "distance_miles": 18.1875913071,
+        "elapsed_time": 13060,
+        "moving_time": 11149,
+        "elevation_gain": 427.9
+    },
+    "2022-06-17": {
+        "distance_miles": 3.0406168514,
+        "elapsed_time": 2318,
+        "moving_time": 1737,
+        "elevation_gain": 98.5
+    },
+    "2022-06-16": {
+        "distance_miles": 4.3257984906999996,
+        "elapsed_time": 2646,
+        "moving_time": 2373,
+        "elevation_gain": 52.6
+    },
+    "2022-06-14": {
+        "distance_miles": 4.0160450471999996,
+        "elapsed_time": 2546,
+        "moving_time": 2272,
+        "elevation_gain": 38.2
+    },
+    "2022-06-12": {
+        "distance_miles": 13.4058929137,
+        "elapsed_time": 8876,
+        "moving_time": 7674,
+        "elevation_gain": 145.5
+    },
+    "2022-06-10": {
+        "distance_miles": 4.062523598,
+        "elapsed_time": 2751,
+        "moving_time": 2271,
+        "elevation_gain": 39.7
+    },
+    "2022-06-09": {
+        "distance_miles": 3.0975965721000005,
+        "elapsed_time": 2098,
+        "moving_time": 1844,
+        "elevation_gain": 62.1
+    },
+    "2022-06-05": {
+        "distance_miles": 17.1247983487,
+        "elapsed_time": 9839,
+        "moving_time": 9658,
+        "elevation_gain": 223.4
+    },
+    "2022-06-03": {
+        "distance_miles": 3.3159463415,
+        "elapsed_time": 2046,
+        "moving_time": 1843,
+        "elevation_gain": 30.9
+    },
+    "2022-06-01": {
+        "distance_miles": 7.020063146700001,
+        "elapsed_time": 3840,
+        "moving_time": 3840,
+        "elevation_gain": 0
+    },
+    "2022-05-31": {
+        "distance_miles": 3.9976524656000003,
+        "elapsed_time": 2584,
+        "moving_time": 2303,
+        "elevation_gain": 38.2
+    },
+    "2022-05-29": {
+        "distance_miles": 15.118391389700001,
+        "elapsed_time": 9210,
+        "moving_time": 8276,
+        "elevation_gain": 262.0
+    },
+    "2022-05-27": {
+        "distance_miles": 3.6227793413000002,
+        "elapsed_time": 2131,
+        "moving_time": 2084,
+        "elevation_gain": 44.5
+    },
+    "2022-05-26": {
+        "distance_miles": 7.041562583299999,
+        "elapsed_time": 4217,
+        "moving_time": 3848,
+        "elevation_gain": 125.9
+    },
+    "2022-05-24": {
+        "distance_miles": 3.8246627792,
+        "elapsed_time": 2289,
+        "moving_time": 2173,
+        "elevation_gain": 31.8
+    },
+    "2022-05-22": {
+        "distance_miles": 11.17225058,
+        "elapsed_time": 6624,
+        "moving_time": 6117,
+        "elevation_gain": 109.8
+    },
+    "2022-05-20": {
+        "distance_miles": 3.0263253183999996,
+        "elapsed_time": 1736,
+        "moving_time": 1603,
+        "elevation_gain": 29.5
+    },
+    "2022-05-19": {
+        "distance_miles": 7.0446694383,
+        "elapsed_time": 3985,
+        "moving_time": 3773,
+        "elevation_gain": 129.1
+    },
+    "2022-05-17": {
+        "distance_miles": 4.0390357742,
+        "elapsed_time": 2462,
+        "moving_time": 2215,
+        "elevation_gain": 39.7
+    },
+    "2022-05-15": {
+        "distance_miles": 13.575527196700001,
+        "elapsed_time": 7210,
+        "moving_time": 7112,
+        "elevation_gain": 253.5
+    },
+    "2022-05-13": {
+        "distance_miles": 3.835101812,
+        "elapsed_time": 2251,
+        "moving_time": 2064,
+        "elevation_gain": 32.8
+    },
+    "2022-05-11": {
+        "distance_miles": 7.0270225019,
+        "elapsed_time": 3889,
+        "moving_time": 3597,
+        "elevation_gain": 124.8
+    },
+    "2022-05-10": {
+        "distance_miles": 4.0394085968,
+        "elapsed_time": 2118,
+        "moving_time": 2000,
+        "elevation_gain": 63.3
+    },
+    "2022-05-07": {
+        "distance_miles": 12.249832168200001,
+        "elapsed_time": 6830,
+        "moving_time": 6575,
+        "elevation_gain": 82.4
+    },
+    "2022-05-05": {
+        "distance_miles": 6.4321219065,
+        "elapsed_time": 3705,
+        "moving_time": 3593,
+        "elevation_gain": 133.2
+    },
+    "2022-05-04": {
+        "distance_miles": 3.7640169696,
+        "elapsed_time": 2498,
+        "moving_time": 2116,
+        "elevation_gain": 44.2
+    },
+    "2022-05-03": {
+        "distance_miles": 3.8999729444,
+        "elapsed_time": 2160,
+        "moving_time": 2160,
+        "elevation_gain": 0
+    },
+    "2022-05-01": {
+        "distance_miles": 10.0417903197,
+        "elapsed_time": 5411,
+        "moving_time": 5299,
+        "elevation_gain": 112.8
+    },
+    "2022-04-29": {
+        "distance_miles": 3.8160878594,
+        "elapsed_time": 2204,
+        "moving_time": 2043,
+        "elevation_gain": 31.0
+    },
+    "2022-04-27": {
+        "distance_miles": 5.515040447600001,
+        "elapsed_time": 3432,
+        "moving_time": 3017,
+        "elevation_gain": 149.0
+    },
+    "2022-04-26": {
+        "distance_miles": 3.8564769744,
+        "elapsed_time": 2452,
+        "moving_time": 2159,
+        "elevation_gain": 31.7
+    },
+    "2022-04-24": {
+        "distance_miles": 12.168867526900002,
+        "elapsed_time": 6854,
+        "moving_time": 6550,
+        "elevation_gain": 229.7
+    },
+    "2022-04-22": {
+        "distance_miles": 3.8421854414,
+        "elapsed_time": 2213,
+        "moving_time": 2054,
+        "elevation_gain": 32.1
+    },
+    "2022-04-20": {
+        "distance_miles": 6.0000205131,
+        "elapsed_time": 3508,
+        "moving_time": 3508,
+        "elevation_gain": 0
+    },
+    "2022-04-19": {
+        "distance_miles": 3.799062294,
+        "elapsed_time": 2284,
+        "moving_time": 2156,
+        "elevation_gain": 32.0
+    },
+    "2022-04-17": {
+        "distance_miles": 9.1258273286,
+        "elapsed_time": 5069,
+        "moving_time": 4943,
+        "elevation_gain": 174.8
+    },
+    "2022-04-15": {
+        "distance_miles": 3.9181169776000004,
+        "elapsed_time": 2171,
+        "moving_time": 2081,
+        "elevation_gain": 32.0
+    },
+    "2022-04-13": {
+        "distance_miles": 6.509606870200001,
+        "elapsed_time": 3761,
+        "moving_time": 3241,
+        "elevation_gain": 114.8
+    },
+    "2022-04-12": {
+        "distance_miles": 3.894753428,
+        "elapsed_time": 2114,
+        "moving_time": 2004,
+        "elevation_gain": 32.3
+    },
+    "2022-04-10": {
+        "distance_miles": 7.1542171456000005,
+        "elapsed_time": 3990,
+        "moving_time": 3783,
+        "elevation_gain": 69.8
+    },
+    "2022-04-08": {
+        "distance_miles": 6.1576623357999996,
+        "elapsed_time": 3433,
+        "moving_time": 3394,
+        "elevation_gain": 102.1
+    },
+    "2022-04-06": {
+        "distance_miles": 4.3113826835,
+        "elapsed_time": 2732,
+        "moving_time": 2434,
+        "elevation_gain": 46.9
+    },
+    "2022-04-05": {
+        "distance_miles": 3.8638091522,
+        "elapsed_time": 2200,
+        "moving_time": 2092,
+        "elevation_gain": 32.2
+    },
+    "2022-04-03": {
+        "distance_miles": 8.0727277578,
+        "elapsed_time": 4438,
+        "moving_time": 4160,
+        "elevation_gain": 74.2
+    },
+    "2022-04-01": {
+        "distance_miles": 5.8131742534,
+        "elapsed_time": 3495,
+        "moving_time": 3201,
+        "elevation_gain": 86.8
+    },
+    "2022-03-30": {
+        "distance_miles": 3.5948797833999997,
+        "elapsed_time": 2185,
+        "moving_time": 1912,
+        "elevation_gain": 31.7
+    },
+    "2022-03-29": {
+        "distance_miles": 5.1814263577,
+        "elapsed_time": 2991,
+        "moving_time": 2766,
+        "elevation_gain": 44.1
+    },
+    "2022-03-26": {
+        "distance_miles": 6.469714852,
+        "elapsed_time": 3777,
+        "moving_time": 3657,
+        "elevation_gain": 138.6
+    },
+    "2022-03-19": {
+        "distance_miles": 3.531872764,
+        "elapsed_time": 2287,
+        "moving_time": 2181,
+        "elevation_gain": 96.5
+    },
+    "2022-03-18": {
+        "distance_miles": 3.065223143,
+        "elapsed_time": 1703,
+        "moving_time": 1691,
+        "elevation_gain": 57.9
+    },
+    "2022-03-16": {
+        "distance_miles": 6.4717653763,
+        "elapsed_time": 3911,
+        "moving_time": 3618,
+        "elevation_gain": 122.8
+    },
+    "2022-03-14": {
+        "distance_miles": 6.739389866,
+        "elapsed_time": 4157,
+        "moving_time": 3760,
+        "elevation_gain": 109.0
+    },
+    "2022-03-11": {
+        "distance_miles": 4.8275555732,
+        "elapsed_time": 2803,
+        "moving_time": 2648,
+        "elevation_gain": 48.1
+    },
+    "2022-03-10": {
+        "distance_miles": 3.3415468267,
+        "elapsed_time": 2102,
+        "moving_time": 1797,
+        "elevation_gain": 31.3
+    },
+    "2022-03-06": {
+        "distance_miles": 4.7314294795,
+        "elapsed_time": 2572,
+        "moving_time": 2496,
+        "elevation_gain": 32.9
+    },
+    "2022-03-04": {
+        "distance_miles": 4.0601623882,
+        "elapsed_time": 2325,
+        "moving_time": 2148,
+        "elevation_gain": 33.9
+    },
+    "2022-03-02": {
+        "distance_miles": 4.1580283207,
+        "elapsed_time": 2423,
+        "moving_time": 2248,
+        "elevation_gain": 35.1
+    },
+    "2022-02-25": {
+        "distance_miles": 2.5222070261,
+        "elapsed_time": 1520,
+        "moving_time": 1496,
+        "elevation_gain": 39.0
+    },
+    "2022-02-24": {
+        "distance_miles": 3.8589624583999997,
+        "elapsed_time": 2289,
+        "moving_time": 2110,
+        "elevation_gain": 32.0
+    },
+    "2022-02-22": {
+        "distance_miles": 3.774207454,
+        "elapsed_time": 2227,
+        "moving_time": 2054,
+        "elevation_gain": 44.1
+    },
+    "2022-02-15": {
+        "distance_miles": 2.2128264052,
+        "elapsed_time": 1273,
+        "moving_time": 1181,
+        "elevation_gain": 23.5
+    },
+    "2022-02-10": {
+        "distance_miles": 1.0000344874,
+        "elapsed_time": 571,
+        "moving_time": 571,
+        "elevation_gain": 0
+    },
+    "2022-01-30": {
+        "distance_miles": 2.1980377754,
+        "elapsed_time": 1335,
+        "moving_time": 1203,
+        "elevation_gain": 25.8
+    },
+    "2022-01-26": {
+        "distance_miles": 6.3996242032,
+        "elapsed_time": 3594,
+        "moving_time": 3516,
+        "elevation_gain": 122.6
+    },
+    "2022-01-24": {
+        "distance_miles": 4.3964483734,
+        "elapsed_time": 2455,
+        "moving_time": 2264,
+        "elevation_gain": 37.0
+    },
+    "2022-01-20": {
+        "distance_miles": 3.8590867326000002,
+        "elapsed_time": 2097,
+        "moving_time": 1976,
+        "elevation_gain": 32.2
+    },
+    "2022-01-19": {
+        "distance_miles": 6.069986887700001,
+        "elapsed_time": 3402,
+        "moving_time": 3295,
+        "elevation_gain": 102.0
+    },
+    "2022-01-17": {
+        "distance_miles": 9.510207429200001,
+        "elapsed_time": 5376,
+        "moving_time": 4965,
+        "elevation_gain": 193.8
+    },
+    "2022-01-14": {
+        "distance_miles": 6.456790335200001,
+        "elapsed_time": 3435,
+        "moving_time": 3412,
+        "elevation_gain": 122.4
+    },
+    "2022-01-12": {
+        "distance_miles": 3.6605586981000005,
+        "elapsed_time": 2170,
+        "moving_time": 1987,
+        "elevation_gain": 32.5
+    },
+    "2022-01-11": {
+        "distance_miles": 9.3663600427,
+        "elapsed_time": 5398,
+        "moving_time": 5131,
+        "elevation_gain": 128.3
+    },
+    "2022-01-09": {
+        "distance_miles": 6.280693793799999,
+        "elapsed_time": 3356,
+        "moving_time": 3188,
+        "elevation_gain": 100.8
+    },
+    "2022-01-07": {
+        "distance_miles": 4.6123747959,
+        "elapsed_time": 2543,
+        "moving_time": 2372,
+        "elevation_gain": 38.1
+    },
+    "2022-01-05": {
+        "distance_miles": 4.4293188993,
+        "elapsed_time": 2468,
+        "moving_time": 2263,
+        "elevation_gain": 37.3
+    },
+    "2022-01-04": {
+        "distance_miles": 8.0389251754,
+        "elapsed_time": 4623,
+        "moving_time": 4291,
+        "elevation_gain": 128.6
+    },
+    "2021-12-31": {
+        "distance_miles": 3.1600443576000004,
+        "elapsed_time": 1959,
+        "moving_time": 1835,
+        "elevation_gain": 55.2
+    },
+    "2021-12-30": {
+        "distance_miles": 5.596253637299999,
+        "elapsed_time": 3894,
+        "moving_time": 3249,
+        "elevation_gain": 130.5
+    },
+    "2021-12-28": {
+        "distance_miles": 5.5705288779,
+        "elapsed_time": 3430,
+        "moving_time": 3078,
+        "elevation_gain": 109.3
+    },
+    "2021-12-26": {
+        "distance_miles": 3.2635026291000004,
+        "elapsed_time": 2266,
+        "moving_time": 1760,
+        "elevation_gain": 57.7
+    },
+    "2021-12-25": {
+        "distance_miles": 2.5194108566,
+        "elapsed_time": 1307,
+        "moving_time": 1201,
+        "elevation_gain": 39.0
+    },
+    "2021-12-23": {
+        "distance_miles": 4.0279132333000005,
+        "elapsed_time": 2241,
+        "moving_time": 1998,
+        "elevation_gain": 60.9
+    },
+    "2021-12-21": {
+        "distance_miles": 6.452813560799999,
+        "elapsed_time": 4376,
+        "moving_time": 3437,
+        "elevation_gain": 124.0
+    },
+    "2021-12-20": {
+        "distance_miles": 4.6207633044,
+        "elapsed_time": 2586,
+        "moving_time": 2522,
+        "elevation_gain": 91.0
+    },
+    "2021-12-15": {
+        "distance_miles": 4.085576462100001,
+        "elapsed_time": 2062,
+        "moving_time": 1999,
+        "elevation_gain": 25.2
+    },
+    "2021-12-14": {
+        "distance_miles": 4.0199596845,
+        "elapsed_time": 2187,
+        "moving_time": 2075,
+        "elevation_gain": 45.5
+    },
+    "2021-12-12": {
+        "distance_miles": 3.3076199701,
+        "elapsed_time": 1746,
+        "moving_time": 1702,
+        "elevation_gain": 27.7
+    },
+    "2021-12-11": {
+        "distance_miles": 2.999979188,
+        "elapsed_time": 1521,
+        "moving_time": 1521,
+        "elevation_gain": 0
+    },
+    "2021-12-07": {
+        "distance_miles": 6.4553611819,
+        "elapsed_time": 3547,
+        "moving_time": 3383,
+        "elevation_gain": 123.4
+    },
+    "2021-12-06": {
+        "distance_miles": 3.3398069879,
+        "elapsed_time": 1746,
+        "moving_time": 1729,
+        "elevation_gain": 30.8
+    },
+    "2021-12-02": {
+        "distance_miles": 5.189255632299999,
+        "elapsed_time": 2838,
+        "moving_time": 2731,
+        "elevation_gain": 44.3
+    },
+    "2021-11-30": {
+        "distance_miles": 6.560248606700001,
+        "elapsed_time": 3834,
+        "moving_time": 3494,
+        "elevation_gain": 117.6
+    },
+    "2021-11-27": {
+        "distance_miles": 6.251613631,
+        "elapsed_time": 3221,
+        "moving_time": 3209,
+        "elevation_gain": 28.2
+    },
+    "2021-11-24": {
+        "distance_miles": 8.153008891,
+        "elapsed_time": 4799,
+        "moving_time": 4539,
+        "elevation_gain": 215.8
+    },
+    "2021-11-23": {
+        "distance_miles": 3.3154492447,
+        "elapsed_time": 1625,
+        "moving_time": 1584,
+        "elevation_gain": 30.8
+    },
+    "2021-11-21": {
+        "distance_miles": 6.3842763395,
+        "elapsed_time": 3258,
+        "moving_time": 3249,
+        "elevation_gain": 120.4
+    },
+    "2021-11-19": {
+        "distance_miles": 3.8382708041000004,
+        "elapsed_time": 2000,
+        "moving_time": 1953,
+        "elevation_gain": 31.7
+    },
+    "2021-11-18": {
+        "distance_miles": 5.1808671238,
+        "elapsed_time": 2922,
+        "moving_time": 2648,
+        "elevation_gain": 43.5
+    },
+    "2021-11-16": {
+        "distance_miles": 6.3983814612000005,
+        "elapsed_time": 3720,
+        "moving_time": 3521,
+        "elevation_gain": 115.0
+    },
+    "2021-11-14": {
+        "distance_miles": 6.131191931200001,
+        "elapsed_time": 3326,
+        "moving_time": 3074,
+        "elevation_gain": 50.5
+    },
+    "2021-11-12": {
+        "distance_miles": 5.6800765852,
+        "elapsed_time": 3486,
+        "moving_time": 3012,
+        "elevation_gain": 110.2
+    },
+    "2021-11-11": {
+        "distance_miles": 7.2276631978,
+        "elapsed_time": 3886,
+        "moving_time": 3731,
+        "elevation_gain": 122.8
+    },
+    "2021-11-09": {
+        "distance_miles": 7.162357105700001,
+        "elapsed_time": 4853,
+        "moving_time": 3747,
+        "elevation_gain": 118.0
+    },
+    "2021-11-07": {
+        "distance_miles": 4.286217158,
+        "elapsed_time": 2374,
+        "moving_time": 2294,
+        "elevation_gain": 51.2
+    },
+    "2021-11-06": {
+        "distance_miles": 6.0424601523999995,
+        "elapsed_time": 3226,
+        "moving_time": 3187,
+        "elevation_gain": 100.0
+    },
+    "2021-11-04": {
+        "distance_miles": 4.2120254606000005,
+        "elapsed_time": 2272,
+        "moving_time": 2128,
+        "elevation_gain": 33.7
+    },
+    "2021-11-02": {
+        "distance_miles": 6.6073485285,
+        "elapsed_time": 3784,
+        "moving_time": 3461,
+        "elevation_gain": 113.4
+    },
+    "2021-10-31": {
+        "distance_miles": 7.5324456733,
+        "elapsed_time": 3908,
+        "moving_time": 3786,
+        "elevation_gain": 62.9
+    },
+    "2021-10-29": {
+        "distance_miles": 3.3166919867,
+        "elapsed_time": 1736,
+        "moving_time": 1695,
+        "elevation_gain": 31.0
+    },
+    "2021-10-28": {
+        "distance_miles": 4.1490184412,
+        "elapsed_time": 2233,
+        "moving_time": 2099,
+        "elevation_gain": 29.3
+    },
+    "2021-10-26": {
+        "distance_miles": 6.388936622,
+        "elapsed_time": 3342,
+        "moving_time": 3232,
+        "elevation_gain": 113.9
+    },
+    "2021-10-24": {
+        "distance_miles": 6.4936997726,
+        "elapsed_time": 3646,
+        "moving_time": 3380,
+        "elevation_gain": 94.7
+    },
+    "2021-10-22": {
+        "distance_miles": 3.3254533178,
+        "elapsed_time": 1936,
+        "moving_time": 1798,
+        "elevation_gain": 29.1
+    },
+    "2021-10-21": {
+        "distance_miles": 4.1400706988,
+        "elapsed_time": 2252,
+        "moving_time": 2074,
+        "elevation_gain": 28.7
+    },
+    "2021-10-19": {
+        "distance_miles": 6.4081369859,
+        "elapsed_time": 3224,
+        "moving_time": 3114,
+        "elevation_gain": 53.7
+    },
+    "2021-10-17": {
+        "distance_miles": 6.7690913998,
+        "elapsed_time": 3882,
+        "moving_time": 3508,
+        "elevation_gain": 120.3
+    },
+    "2021-10-15": {
+        "distance_miles": 3.324956221,
+        "elapsed_time": 1819,
+        "moving_time": 1666,
+        "elevation_gain": 30.3
+    },
+    "2021-10-14": {
+        "distance_miles": 6.658735910200001,
+        "elapsed_time": 3607,
+        "moving_time": 3427,
+        "elevation_gain": 121.7
+    },
+    "2021-10-11": {
+        "distance_miles": 3.5120510291,
+        "elapsed_time": 1943,
+        "moving_time": 1878,
+        "elevation_gain": 40.6
+    },
+    "2021-10-10": {
+        "distance_miles": 3.0920042331000004,
+        "elapsed_time": 1393,
+        "moving_time": 1385,
+        "elevation_gain": 74.4
+    },
+    "2021-10-07": {
+        "distance_miles": 4.1547971915,
+        "elapsed_time": 2169,
+        "moving_time": 2020,
+        "elevation_gain": 28.2
+    },
+    "2021-10-06": {
+        "distance_miles": 2.999979188,
+        "elapsed_time": 1485,
+        "moving_time": 1485,
+        "elevation_gain": 0
+    },
+    "2021-10-04": {
+        "distance_miles": 3.3279388018000002,
+        "elapsed_time": 1774,
+        "moving_time": 1648,
+        "elevation_gain": 30.3
+    },
+    "2021-09-30": {
+        "distance_miles": 4.1410648924,
+        "elapsed_time": 2132,
+        "moving_time": 2031,
+        "elevation_gain": 28.1
+    },
+    "2021-09-28": {
+        "distance_miles": 3.3013441230000002,
+        "elapsed_time": 1723,
+        "moving_time": 1614,
+        "elevation_gain": 30.2
+    },
+    "2021-09-26": {
+        "distance_miles": 3.7735239458999996,
+        "elapsed_time": 2254,
+        "moving_time": 1966,
+        "elevation_gain": 45.3
+    },
+    "2021-09-25": {
+        "distance_miles": 3.2372807728999997,
+        "elapsed_time": 1738,
+        "moving_time": 1652,
+        "elevation_gain": 22.6
+    },
+    "2021-09-21": {
+        "distance_miles": 4.010949805,
+        "elapsed_time": 2140,
+        "moving_time": 1920,
+        "elevation_gain": 28.8
+    },
+    "2021-09-10": {
+        "distance_miles": 6.3131914971,
+        "elapsed_time": 3315,
+        "moving_time": 3257,
+        "elevation_gain": 112.9
+    },
+    "2021-09-09": {
+        "distance_miles": 4.131371504800001,
+        "elapsed_time": 2289,
+        "moving_time": 2086,
+        "elevation_gain": 34.2
+    },
+    "2021-09-03": {
+        "distance_miles": 6.2405532272,
+        "elapsed_time": 3468,
+        "moving_time": 3305,
+        "elevation_gain": 101.7
+    },
+    "2021-09-01": {
+        "distance_miles": 2.8300963566000004,
+        "elapsed_time": 1638,
+        "moving_time": 1506,
+        "elevation_gain": 50.8
+    },
+    "2021-08-31": {
+        "distance_miles": 6.2894551249,
+        "elapsed_time": 3151,
+        "moving_time": 2998,
+        "elevation_gain": 51.6
+    },
+    "2021-08-27": {
+        "distance_miles": 6.091299913,
+        "elapsed_time": 3411,
+        "moving_time": 3235,
+        "elevation_gain": 87.1
+    },
+    "2021-08-25": {
+        "distance_miles": 4.1591467885,
+        "elapsed_time": 2323,
+        "moving_time": 2019,
+        "elevation_gain": 21.4
+    },
+    "2021-08-24": {
+        "distance_miles": 5.1581870823,
+        "elapsed_time": 2966,
+        "moving_time": 2749,
+        "elevation_gain": 44.7
+    },
+    "2021-08-22": {
+        "distance_miles": 6.3300306512,
+        "elapsed_time": 3488,
+        "moving_time": 3359,
+        "elevation_gain": 114.1
+    },
+    "2021-08-20": {
+        "distance_miles": 6.1830142726,
+        "elapsed_time": 3658,
+        "moving_time": 3213,
+        "elevation_gain": 113.9
+    },
+    "2021-08-18": {
+        "distance_miles": 6.854343500999999,
+        "elapsed_time": 5034,
+        "moving_time": 3199,
+        "elevation_gain": 50.2
+    },
+    "2021-08-17": {
+        "distance_miles": 5.350439269700001,
+        "elapsed_time": 2932,
+        "moving_time": 2761,
+        "elevation_gain": 45.6
+    },
+    "2021-08-14": {
+        "distance_miles": 6.3059214564,
+        "elapsed_time": 3607,
+        "moving_time": 3607,
+        "elevation_gain": 0
+    },
+    "2021-08-11": {
+        "distance_miles": 4.070663558100001,
+        "elapsed_time": 2447,
+        "moving_time": 2083,
+        "elevation_gain": 35.6
+    },
+    "2021-08-10": {
+        "distance_miles": 4.1080700923,
+        "elapsed_time": 2362,
+        "moving_time": 2110,
+        "elevation_gain": 20.9
+    },
+    "2021-08-07": {
+        "distance_miles": 1.0000344874,
+        "elapsed_time": 530,
+        "moving_time": 530,
+        "elevation_gain": 0
+    },
+    "2021-08-05": {
+        "distance_miles": 4.0570555332,
+        "elapsed_time": 2729,
+        "moving_time": 2208,
+        "elevation_gain": 47.7
+    },
+    "2021-08-03": {
+        "distance_miles": 7.0675358911,
+        "elapsed_time": 3853,
+        "moving_time": 3564,
+        "elevation_gain": 39.2
+    },
+    "2021-08-01": {
+        "distance_miles": 6.5353937667,
+        "elapsed_time": 3957,
+        "moving_time": 3133,
+        "elevation_gain": 104.9
+    },
+    "2021-07-31": {
+        "distance_miles": 3.4189696533,
+        "elapsed_time": 2014,
+        "moving_time": 1797,
+        "elevation_gain": 17.6
+    },
+    "2021-07-28": {
+        "distance_miles": 5.1000267567,
+        "elapsed_time": 2551,
+        "moving_time": 2551,
+        "elevation_gain": 0
+    },
+    "2021-07-27": {
+        "distance_miles": 4.156350619,
+        "elapsed_time": 2648,
+        "moving_time": 2200,
+        "elevation_gain": 74.7
+    },
+    "2021-07-24": {
+        "distance_miles": 3.0191174148,
+        "elapsed_time": 2022,
+        "moving_time": 1685,
+        "elevation_gain": 60.7
+    },
+    "2021-07-22": {
+        "distance_miles": 4.375694582,
+        "elapsed_time": 2853,
+        "moving_time": 2078,
+        "elevation_gain": 17.5
+    },
+    "2021-07-20": {
+        "distance_miles": 5.200005350600001,
+        "elapsed_time": 2760,
+        "moving_time": 2760,
+        "elevation_gain": 0
+    },
+    "2021-07-18": {
+        "distance_miles": 14.959444687900001,
+        "elapsed_time": 12867,
+        "moving_time": 7454,
+        "elevation_gain": 350.6
+    },
+    "2021-07-15": {
+        "distance_miles": 5.0795215137,
+        "elapsed_time": 2791,
+        "moving_time": 2605,
+        "elevation_gain": 43.0
+    },
+    "2021-07-13": {
+        "distance_miles": 1.1533888502,
+        "elapsed_time": 1002,
+        "moving_time": 636,
+        "elevation_gain": 4.2
+    },
+    "2021-07-09": {
+        "distance_miles": 8.0977690091,
+        "elapsed_time": 5564,
+        "moving_time": 4307,
+        "elevation_gain": 82.1
+    },
+    "2021-07-07": {
+        "distance_miles": 8.0786307823,
+        "elapsed_time": 5732,
+        "moving_time": 4336,
+        "elevation_gain": 148.9
+    },
+    "2021-07-06": {
+        "distance_miles": 4.0237500476,
+        "elapsed_time": 2215,
+        "moving_time": 1988,
+        "elevation_gain": 27.6
+    },
+    "2021-07-04": {
+        "distance_miles": 3.5241056265,
+        "elapsed_time": 2862,
+        "moving_time": 1917,
+        "elevation_gain": 24.4
+    },
+    "2021-06-24": {
+        "distance_miles": 4.067494566,
+        "elapsed_time": 2741,
+        "moving_time": 2094,
+        "elevation_gain": 46.8
+    },
+    "2021-06-21": {
+        "distance_miles": 3.1909264963000004,
+        "elapsed_time": 1976,
+        "moving_time": 1628,
+        "elevation_gain": 13.7
+    },
+    "2021-06-15": {
+        "distance_miles": 5.1424042589,
+        "elapsed_time": 3519,
+        "moving_time": 2880,
+        "elevation_gain": 137.2
+    },
+    "2021-06-12": {
+        "distance_miles": 0.0,
+        "elapsed_time": 5400,
+        "moving_time": 5400,
+        "elevation_gain": 0
+    },
+    "2021-06-09": {
+        "distance_miles": 5.2044170847,
+        "elapsed_time": 3272,
+        "moving_time": 2602,
+        "elevation_gain": 14.7
+    },
+    "2021-06-07": {
+        "distance_miles": 7.4054374409,
+        "elapsed_time": 5255,
+        "moving_time": 3923,
+        "elevation_gain": 107.4
+    },
+    "2021-06-05": {
+        "distance_miles": 4.8043784349,
+        "elapsed_time": 2896,
+        "moving_time": 2513,
+        "elevation_gain": 62.1
+    },
+    "2021-06-03": {
+        "distance_miles": 5.1838497046,
+        "elapsed_time": 2910,
+        "moving_time": 2579,
+        "elevation_gain": 26.7
+    },
+    "2021-06-01": {
+        "distance_miles": 5.1045006279,
+        "elapsed_time": 2841,
+        "moving_time": 2579,
+        "elevation_gain": 14.8
+    },
+    "2021-05-30": {
+        "distance_miles": 6.601942600799999,
+        "elapsed_time": 4831,
+        "moving_time": 3596,
+        "elevation_gain": 103.1
+    },
+    "2021-05-28": {
+        "distance_miles": 4.3743275658,
+        "elapsed_time": 2460,
+        "moving_time": 2175,
+        "elevation_gain": 25.7
+    },
+    "2021-05-26": {
+        "distance_miles": 5.0521811897,
+        "elapsed_time": 2717,
+        "moving_time": 2498,
+        "elevation_gain": 14.7
+    },
+    "2021-05-24": {
+        "distance_miles": 4.0158586359,
+        "elapsed_time": 2310,
+        "moving_time": 2032,
+        "elevation_gain": 29.4
+    },
+    "2021-05-21": {
+        "distance_miles": 3.1705455275,
+        "elapsed_time": 1628,
+        "moving_time": 1538,
+        "elevation_gain": 11.2
+    },
+    "2021-05-19": {
+        "distance_miles": 0.2604787232,
+        "elapsed_time": 188,
+        "moving_time": 133,
+        "elevation_gain": 6.8
+    },
+    "2021-05-16": {
+        "distance_miles": 6.3345666595,
+        "elapsed_time": 3836,
+        "moving_time": 3279,
+        "elevation_gain": 79.3
+    },
+    "2021-05-12": {
+        "distance_miles": 5.0385731648,
+        "elapsed_time": 2742,
+        "moving_time": 2621,
+        "elevation_gain": 34.4
+    },
+    "2021-05-09": {
+        "distance_miles": 3.3980294506,
+        "elapsed_time": 2148,
+        "moving_time": 1743,
+        "elevation_gain": 61.7
+    },
+    "2021-05-05": {
+        "distance_miles": 3.1442615342,
+        "elapsed_time": 1679,
+        "moving_time": 1562,
+        "elevation_gain": 14.1
+    },
+    "2021-05-04": {
+        "distance_miles": 3.5443623211000004,
+        "elapsed_time": 2192,
+        "moving_time": 1777,
+        "elevation_gain": 16.4
+    },
+    "2021-05-01": {
+        "distance_miles": 3.2162784331000003,
+        "elapsed_time": 1793,
+        "moving_time": 1583,
+        "elevation_gain": 16.9
+    },
+    "2021-04-26": {
+        "distance_miles": 3.1609764141000003,
+        "elapsed_time": 1796,
+        "moving_time": 1594,
+        "elevation_gain": 11.7
+    },
+    "2021-04-21": {
+        "distance_miles": 5.7440777982,
+        "elapsed_time": 3337,
+        "moving_time": 2918,
+        "elevation_gain": 36.2
+    },
+    "2021-04-19": {
+        "distance_miles": 3.1172318957,
+        "elapsed_time": 1521,
+        "moving_time": 1518,
+        "elevation_gain": 17.7
+    },
+    "2021-04-16": {
+        "distance_miles": 8.1920309898,
+        "elapsed_time": 5268,
+        "moving_time": 4292,
+        "elevation_gain": 82.4
+    },
+    "2021-04-13": {
+        "distance_miles": 5.1025122407,
+        "elapsed_time": 3066,
+        "moving_time": 2613,
+        "elevation_gain": 47.4
+    },
+    "2021-04-11": {
+        "distance_miles": 7.764714153100001,
+        "elapsed_time": 4600,
+        "moving_time": 4102,
+        "elevation_gain": 67.0
+    },
+    "2021-04-09": {
+        "distance_miles": 3.1127580245,
+        "elapsed_time": 1700,
+        "moving_time": 1533,
+        "elevation_gain": 16.8
+    },
+    "2021-04-08": {
+        "distance_miles": 4.3146759498,
+        "elapsed_time": 2317,
+        "moving_time": 2162,
+        "elevation_gain": 13.9
+    },
+    "2021-04-02": {
+        "distance_miles": 3.1376750016000003,
+        "elapsed_time": 2007,
+        "moving_time": 1636,
+        "elevation_gain": 36.5
+    },
+    "2021-03-30": {
+        "distance_miles": 5.3606918912,
+        "elapsed_time": 2866,
+        "moving_time": 2704,
+        "elevation_gain": 17.1
+    },
+    "2021-03-29": {
+        "distance_miles": 4.1714499343,
+        "elapsed_time": 2296,
+        "moving_time": 2078,
+        "elevation_gain": 37.8
+    },
+    "2021-03-27": {
+        "distance_miles": 3.0635454413,
+        "elapsed_time": 1803,
+        "moving_time": 1639,
+        "elevation_gain": 47.5
+    },
+    "2021-03-26": {
+        "distance_miles": 2.2719187873,
+        "elapsed_time": 1285,
+        "moving_time": 1170,
+        "elevation_gain": 11.7
+    },
+    "2021-03-20": {
+        "distance_miles": 3.1023189917,
+        "elapsed_time": 1569,
+        "moving_time": 1569,
+        "elevation_gain": 12.4
+    },
+    "2021-03-18": {
+        "distance_miles": 2.4324810537,
+        "elapsed_time": 1382,
+        "moving_time": 1311,
+        "elevation_gain": 40.3
+    },
+    "2021-03-16": {
+        "distance_miles": 7.7097228196000005,
+        "elapsed_time": 4609,
+        "moving_time": 4234,
+        "elevation_gain": 198.9
+    },
+    "2021-03-14": {
+        "distance_miles": 4.0058545628,
+        "elapsed_time": 2334,
+        "moving_time": 2219,
+        "elevation_gain": 75.7
+    },
+    "2021-03-12": {
+        "distance_miles": 4.0175363376,
+        "elapsed_time": 2746,
+        "moving_time": 2283,
+        "elevation_gain": 41.0
+    },
+    "2021-03-11": {
+        "distance_miles": 2.233207374,
+        "elapsed_time": 1385,
+        "moving_time": 1174,
+        "elevation_gain": 39.2
+    },
+    "2021-03-10": {
+        "distance_miles": 5.1193513948,
+        "elapsed_time": 2718,
+        "moving_time": 2585,
+        "elevation_gain": 14.7
+    },
+    "2021-03-09": {
+        "distance_miles": 3.1297835898999997,
+        "elapsed_time": 1623,
+        "moving_time": 1601,
+        "elevation_gain": 21.7
+    },
+    "2021-03-07": {
+        "distance_miles": 13.3210757722,
+        "elapsed_time": 8531,
+        "moving_time": 7239,
+        "elevation_gain": 152.8
+    },
+    "2021-03-05": {
+        "distance_miles": 6.392167751200001,
+        "elapsed_time": 3486,
+        "moving_time": 3236,
+        "elevation_gain": 38.4
+    },
+    "2021-03-03": {
+        "distance_miles": 5.765701509,
+        "elapsed_time": 3700,
+        "moving_time": 3125,
+        "elevation_gain": 69.8
+    },
+    "2021-03-02": {
+        "distance_miles": 3.3161948898999998,
+        "elapsed_time": 1979,
+        "moving_time": 1757,
+        "elevation_gain": 22.3
+    },
+    "2021-02-28": {
+        "distance_miles": 7.5077151075,
+        "elapsed_time": 4471,
+        "moving_time": 3950,
+        "elevation_gain": 62.7
+    },
+    "2021-02-26": {
+        "distance_miles": 3.055902578,
+        "elapsed_time": 1596,
+        "moving_time": 1556,
+        "elevation_gain": 22.7
+    },
+    "2021-02-24": {
+        "distance_miles": 5.219267851600001,
+        "elapsed_time": 2722,
+        "moving_time": 2647,
+        "elevation_gain": 38.0
+    },
+    "2021-02-22": {
+        "distance_miles": 3.7017555954,
+        "elapsed_time": 2083,
+        "moving_time": 1882,
+        "elevation_gain": 33.1
+    },
+    "2021-02-19": {
+        "distance_miles": 2.2248810026,
+        "elapsed_time": 1284,
+        "moving_time": 1199,
+        "elevation_gain": 24.0
+    },
+    "2021-02-17": {
+        "distance_miles": 4.346365870800001,
+        "elapsed_time": 2237,
+        "moving_time": 2085,
+        "elevation_gain": 15.3
+    },
+    "2021-02-16": {
+        "distance_miles": 3.046582013,
+        "elapsed_time": 1603,
+        "moving_time": 1577,
+        "elevation_gain": 28.6
+    },
+    "2021-02-11": {
+        "distance_miles": 2.5767012628,
+        "elapsed_time": 1451,
+        "moving_time": 1360,
+        "elevation_gain": 31.7
+    },
+    "2021-02-09": {
+        "distance_miles": 4.4099942612,
+        "elapsed_time": 2556,
+        "moving_time": 2399,
+        "elevation_gain": 62.1
+    },
+    "2021-02-07": {
+        "distance_miles": 5.122458249799999,
+        "elapsed_time": 2827,
+        "moving_time": 2669,
+        "elevation_gain": 83.1
+    },
+    "2021-02-05": {
+        "distance_miles": 3.227400974,
+        "elapsed_time": 1750,
+        "moving_time": 1673,
+        "elevation_gain": 15.6
+    },
+    "2021-02-02": {
+        "distance_miles": 3.0052608415,
+        "elapsed_time": 1944,
+        "moving_time": 1632,
+        "elevation_gain": 12.2
+    },
+    "2021-01-28": {
+        "distance_miles": 2.0143605078,
+        "elapsed_time": 1302,
+        "moving_time": 1090,
+        "elevation_gain": 32.8
+    },
+    "2021-01-26": {
+        "distance_miles": 3.7515274125,
+        "elapsed_time": 2172,
+        "moving_time": 2091,
+        "elevation_gain": 39.1
+    },
+    "2021-01-24": {
+        "distance_miles": 1.3622316433,
+        "elapsed_time": 658,
+        "moving_time": 658,
+        "elevation_gain": 29.4
+    },
+    "2021-01-22": {
+        "distance_miles": 4.0448766616,
+        "elapsed_time": 2239,
+        "moving_time": 2204,
+        "elevation_gain": 43.1
+    },
+    "2021-01-20": {
+        "distance_miles": 3.129845727,
+        "elapsed_time": 1631,
+        "moving_time": 1615,
+        "elevation_gain": 22.0
+    },
+    "2021-01-18": {
+        "distance_miles": 0.8212660507,
+        "elapsed_time": 501,
+        "moving_time": 470,
+        "elevation_gain": 2.3
+    },
+    "2021-01-15": {
+        "distance_miles": 0.997300455,
+        "elapsed_time": 832,
+        "moving_time": 590,
+        "elevation_gain": 18.8
+    },
+    "2021-01-13": {
+        "distance_miles": 3.4060451365,
+        "elapsed_time": 2100,
+        "moving_time": 1988,
+        "elevation_gain": 45.8
+    },
+    "2021-01-11": {
+        "distance_miles": 3.4848971164,
+        "elapsed_time": 2118,
+        "moving_time": 2054,
+        "elevation_gain": 38.4
+    },
+    "2021-01-07": {
+        "distance_miles": 1.4394680586,
+        "elapsed_time": 1125,
+        "moving_time": 778,
+        "elevation_gain": 24.4
+    },
+    "2020-09-05": {
+        "distance_miles": 3.1804253264,
+        "elapsed_time": 2013,
+        "moving_time": 1839,
+        "elevation_gain": 74.3
+    },
+    "2020-08-28": {
+        "distance_miles": 3.1131308471000003,
+        "elapsed_time": 1752,
+        "moving_time": 1726,
+        "elevation_gain": 55.4
+    },
+    "2020-07-13": {
+        "distance_miles": 2.422725529,
+        "elapsed_time": 1467,
+        "moving_time": 1396,
+        "elevation_gain": 38.5
+    },
+    "2020-07-02": {
+        "distance_miles": 4.0077808129,
+        "elapsed_time": 2301,
+        "moving_time": 2276,
+        "elevation_gain": 63.8
+    },
+    "2020-06-26": {
+        "distance_miles": 6.2641653252000005,
+        "elapsed_time": 3771,
+        "moving_time": 3716,
+        "elevation_gain": 96.7
+    },
+    "2020-06-24": {
+        "distance_miles": 3.2040995615,
+        "elapsed_time": 1743,
+        "moving_time": 1734,
+        "elevation_gain": 54.9
+    },
+    "2020-06-21": {
+        "distance_miles": 3.4550091713,
+        "elapsed_time": 1912,
+        "moving_time": 1912,
+        "elevation_gain": 63.9
+    },
+    "2020-06-16": {
+        "distance_miles": 4.5605524545,
+        "elapsed_time": 2727,
+        "moving_time": 2702,
+        "elevation_gain": 85.6
+    },
+    "2020-06-14": {
+        "distance_miles": 4.0132488777,
+        "elapsed_time": 2249,
+        "moving_time": 2241,
+        "elevation_gain": 65.4
+    },
+    "2020-06-11": {
+        "distance_miles": 2.2099059615,
+        "elapsed_time": 1335,
+        "moving_time": 1199,
+        "elevation_gain": 39.4
+    },
+    "2020-06-06": {
+        "distance_miles": 0.6908402778,
+        "elapsed_time": 400,
+        "moving_time": 368,
+        "elevation_gain": 14.2
+    },
+    "2020-06-03": {
+        "distance_miles": 3.2673551293000003,
+        "elapsed_time": 1947,
+        "moving_time": 1764,
+        "elevation_gain": 59.5
+    },
+    "2020-06-02": {
+        "distance_miles": 1.0334021101,
+        "elapsed_time": 535,
+        "moving_time": 535,
+        "elevation_gain": 9.2
+    },
+    "2020-05-31": {
+        "distance_miles": 2.045553332,
+        "elapsed_time": 1212,
+        "moving_time": 1171,
+        "elevation_gain": 33.4
+    },
+    "2020-05-29": {
+        "distance_miles": 2.7269487706000004,
+        "elapsed_time": 2708,
+        "moving_time": 1665,
+        "elevation_gain": 97.3
+    },
+    "2020-05-26": {
+        "distance_miles": 2.4676506523,
+        "elapsed_time": 1403,
+        "moving_time": 1357,
+        "elevation_gain": 38.9
+    },
+    "2020-05-23": {
+        "distance_miles": 3.4998721575,
+        "elapsed_time": 2057,
+        "moving_time": 1903,
+        "elevation_gain": 63.3
+    },
+    "2020-05-18": {
+        "distance_miles": 1.2541130893,
+        "elapsed_time": 643,
+        "moving_time": 640,
+        "elevation_gain": 16.1
+    },
+    "2020-05-14": {
+        "distance_miles": 2.0999854316,
+        "elapsed_time": 1029,
+        "moving_time": 1029,
+        "elevation_gain": 0
+    },
+    "2020-05-07": {
+        "distance_miles": 2.560669891,
+        "elapsed_time": 1566,
+        "moving_time": 1376,
+        "elevation_gain": 48.4
+    },
+    "2020-05-04": {
+        "distance_miles": 3.2072685536,
+        "elapsed_time": 1852,
+        "moving_time": 1706,
+        "elevation_gain": 41.5
+    },
+    "2020-04-21": {
+        "distance_miles": 1.5034071345,
+        "elapsed_time": 792,
+        "moving_time": 792,
+        "elevation_gain": 24.5
+    },
+    "2020-04-17": {
+        "distance_miles": 3.5487740552,
+        "elapsed_time": 2070,
+        "moving_time": 1857,
+        "elevation_gain": 60.2
+    },
+    "2020-04-15": {
+        "distance_miles": 2.388550124,
+        "elapsed_time": 1392,
+        "moving_time": 1209,
+        "elevation_gain": 26.3
+    },
+    "2020-04-13": {
+        "distance_miles": 1.0523539256,
+        "elapsed_time": 631,
+        "moving_time": 538,
+        "elevation_gain": 18.2
+    },
+    "2020-04-09": {
+        "distance_miles": 1.5196249176,
+        "elapsed_time": 776,
+        "moving_time": 776,
+        "elevation_gain": 19.6
+    },
+    "2020-04-08": {
+        "distance_miles": 1.1871914326,
+        "elapsed_time": 564,
+        "moving_time": 564,
+        "elevation_gain": 15.6
+    },
+    "2020-03-31": {
+        "distance_miles": 2.7082455035,
+        "elapsed_time": 1712,
+        "moving_time": 1490,
+        "elevation_gain": 49.5
+    },
+    "2020-03-25": {
+        "distance_miles": 1.2208697408,
+        "elapsed_time": 900,
+        "moving_time": 659,
+        "elevation_gain": 47.1
+    },
+    "2020-03-22": {
+        "distance_miles": 3.0533549569,
+        "elapsed_time": 1880,
+        "moving_time": 1665,
+        "elevation_gain": 69.5
+    },
+    "2020-03-20": {
+        "distance_miles": 3.2101889973,
+        "elapsed_time": 1903,
+        "moving_time": 1802,
+        "elevation_gain": 68.3
+    },
+    "2020-03-16": {
+        "distance_miles": 1.4069703553000001,
+        "elapsed_time": 1016,
+        "moving_time": 690,
+        "elevation_gain": 25.5
+    },
+    "2020-03-11": {
+        "distance_miles": 2.5286692845,
+        "elapsed_time": 1486,
+        "moving_time": 1131,
+        "elevation_gain": 21.7
+    },
+    "2020-03-09": {
+        "distance_miles": 2.5537726728999997,
+        "elapsed_time": 1640,
+        "moving_time": 1206,
+        "elevation_gain": 18.0
+    },
+    "2020-03-05": {
+        "distance_miles": 1.0520432401,
+        "elapsed_time": 651,
+        "moving_time": 510,
+        "elevation_gain": 6.5
+    },
+    "2020-03-01": {
+        "distance_miles": 1.2074481272,
+        "elapsed_time": 1065,
+        "moving_time": 628,
+        "elevation_gain": 16.4
+    },
+    "2020-02-27": {
+        "distance_miles": 4.1887240481,
+        "elapsed_time": 2603,
+        "moving_time": 2061,
+        "elevation_gain": 17.1
+    },
+    "2020-02-26": {
+        "distance_miles": 3.1188474603,
+        "elapsed_time": 1582,
+        "moving_time": 1574,
+        "elevation_gain": 18.8
+    },
+    "2020-02-24": {
+        "distance_miles": 1.0000344874,
+        "elapsed_time": 480,
+        "moving_time": 480,
+        "elevation_gain": 0
+    },
+    "2020-02-22": {
+        "distance_miles": 3.0117230998999998,
+        "elapsed_time": 1970,
+        "moving_time": 1555,
+        "elevation_gain": 38.6
+    },
+    "2020-02-17": {
+        "distance_miles": 2.0531961953,
+        "elapsed_time": 1630,
+        "moving_time": 961,
+        "elevation_gain": 12.9
+    },
+    "2019-09-18": {
+        "distance_miles": 4.1609487644,
+        "elapsed_time": 2884,
+        "moving_time": 2297,
+        "elevation_gain": 51.5
+    },
+    "2019-09-03": {
+        "distance_miles": 1.523601692,
+        "elapsed_time": 1112245,
+        "moving_time": 944,
+        "elevation_gain": 35.9
+    },
+    "2019-09-02": {
+        "distance_miles": 2.8466248252,
+        "elapsed_time": 1976,
+        "moving_time": 1480,
+        "elevation_gain": 26.1
+    },
+    "2019-08-28": {
+        "distance_miles": 0.45434647520000004,
+        "elapsed_time": 396,
+        "moving_time": 279,
+        "elevation_gain": 6.9
+    },
+    "2019-08-07": {
+        "distance_miles": 0.4001007869,
+        "elapsed_time": 578461,
+        "moving_time": 248,
+        "elevation_gain": 6.5
+    },
+    "2019-08-06": {
+        "distance_miles": 1.5766667754,
+        "elapsed_time": 867,
+        "moving_time": 827,
+        "elevation_gain": 24.1
+    },
+    "2019-08-02": {
+        "distance_miles": 0.3932657059,
+        "elapsed_time": 2904,
+        "moving_time": 211,
+        "elevation_gain": 9.2
+    },
+    "2015-07-24": {
+        "distance_miles": 2.3115622571,
+        "elapsed_time": 1228,
+        "moving_time": 1216,
+        "elevation_gain": 0.0
+    },
+    "2015-04-18": {
+        "distance_miles": 0.8359925434000001,
+        "elapsed_time": 1103,
+        "moving_time": 1011,
+        "elevation_gain": 28.8
+    },
+    "2015-03-07": {
+        "distance_miles": 1.4984361665,
+        "elapsed_time": 1670,
+        "moving_time": 1298,
+        "elevation_gain": 24.1
+    },
+    "2014-08-23": {
+        "distance_miles": 0.5175399059,
+        "elapsed_time": 319,
+        "moving_time": 282,
+        "elevation_gain": 0.0
+    }
+}
