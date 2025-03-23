@@ -165,13 +165,14 @@ def generate_activity_data(access_token, activity_type, data_dir, start_date=Non
     print(f"Updated {activity_type} data with {len(new_activity_data)} new entries")
     return existing_data
 
-def dump_all_raw_data(access_token, data_dir, start_date=None, end_date=None, incremental=False):
+def dump_all_raw_data(access_token, start_date=None, end_date=None, incremental=False):
     """
     Fetch all activity data and store it as a raw JSON file.
     This is useful for storing *all* stats Strava provides. This may output more information
     than needed or more information than you'd like to publicly share, so use with caution.
     """
-    file_path = os.path.join(data_dir, "all_activities.json")
+    # raw data should stay in src/src_data
+    file_path = os.path.join("src_data/", "all_activities.json")
 
     existing_data = []
 
@@ -223,7 +224,7 @@ def main():
     parser.add_argument("--start-date", type=str, help="Fetch activities after this date (YYYY-MM-DD)")
     parser.add_argument("--end-date", type=str, help="Fetch activities before this date (YYYY-MM-DD)")
     parser.add_argument("--incremental", action="store_true", help="Only fetch new activities since last update. If no existing data found, defaults to last year.")
-    parser.add_argument("--data-dir", type=str, default="data/", help="Directory to store activity data (default: 'data/')")
+    parser.add_argument("--data-dir", type=str, default="src_data/", help="Directory to store activity data (default: 'src_data/'). Not used for raw data dump.")
 
     args = parser.parse_args()
 
@@ -233,7 +234,7 @@ def main():
         return
    
     if args.raw_all:
-        dump_all_raw_data(access_token, args.data_dir, args.start_date, args.end_date, args.incremental)
+        dump_all_raw_data(access_token, args.start_date, args.end_date, args.incremental)
     else:
         generate_activity_data(access_token, args.activity_type, args.data_dir, args.start_date, args.end_date, args.incremental)
 

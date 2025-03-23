@@ -1,3 +1,5 @@
 .env
+.DS_Store
+src/src_data/*
 all_activities.json
 **/__pycache__/**

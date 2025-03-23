@@ -7,6 +7,7 @@ Follow instructions [here](https://developers.strava.com/docs/getting-started/) 
 
 You will need to store your Strava client id, client secret, and refresh token.
 `strava_auth.py` assumes that these variables are saved in an `.env` file (`src/.env`), as the following:
+
 ```
 STRAVA_CLIENT_ID=<client id>
 STRAVA_CLIENT_SECRET=<client secret>
@@ -29,10 +30,12 @@ Running `strava_auth.py` should run without error.
 
 Fetching activity data from Strava is done through the `fetch_strava_data.py` script.
 
-### Usage
+### Usage Quick Start
+
+The following script will gather all of your running activities from 2024 and save to `docs/data/run_activities.json`. *This will overwrite any existing activity data with your own.* Then, skip to [Preview](#preview) to see running data visualizations.
 
 ```
-python fetch_strava_data.py --activity-type Run --start-date 2024-01-01 --end-date 2024-03-01
+python fetch_strava_data.py --activity-type Run --data-dir ../docs/data/ --start-date 2024-01-01 --end-date 2024-03-01
 ```
 
 ### Parameters
@@ -42,7 +45,7 @@ python fetch_strava_data.py --activity-type Run --start-date 2024-01-01 --end-da
 - `--start-date YYYY-MM-DD`: Fetch activities after this date.
 - `--end-date YYYY-MM-DD`: Fetch activities before this date.
 - `--incremental` Only fetch new activities since the last update. If no existing data is found, defaults to the last year.
-- `--data-dir DIR`: Directory to store activity data (default: `data/`)
+- `--data-dir DIR`: Directory to store activity data (default: `src_data/`). Is not used with `--raw-all`.
 
 **Note:** While `start-date`, `end-date`, and `incremental` are not exclusive, expected usage is that `incremental` should be used without `start-date` (or `end-date`) as it is used as a flag to find the most recent activities from where an existing file left off. Because of this, if `incremental` is set and the script finds existing data for the activity type, the `start-date` parameter (if set) will be ignored. 
 
@@ -50,15 +53,16 @@ python fetch_strava_data.py --activity-type Run --start-date 2024-01-01 --end-da
 
 | Usage | Description |
 |-------|-------------|
-|`python fetch_strava_data.py --raw-all`| Dump all activity data from Strava into `all_activities.json`.|
-|`python fetch_strava_data.py --activity-type Run`| Get all run activities from Strava and save in `run_activities.json`.|
-|`python fetch_strava_data.py --activity-type Run --incremental`| Get all run activities from Strava that aren't already in `run_activities.json` and add them. If `run_activities.json` can't be found, then create and add the last year's worth of activities.|
+|`python fetch_strava_data.py --raw-all`| Dump all activity data from Strava into `src/src_data/all_activities.json`.|
+|`python fetch_strava_data.py --activity-type Run`| Get all run activities from Strava and save in `src_data/run_activities.json`.|
+|`python fetch_strava_data.py --activity-type Run --data-dir ../docs/data/`| Get all run activities from Strava and save in `docs/data/run_activities.json`.|
+|`python fetch_strava_data.py --activity-type Run --data-dir ../docs/data/ --incremental`| Get all run activities from Strava that aren't already in `data/run_activities.json` and add them. If `run_activities.json` can't be found, then create and add the last year's worth of activities.|
 |`python script.py --activity-type Run --start-date 2024-01-01` | Fetch all running activities from 2024 onwards. | 
 
 
 ### Data
 
-While `--raw-all` enables a dump of all activity data fetched from Strava, you likely do not need all of the data nor do you need to share all of the information publicly. The base version of this repository sets specific data fields to store per activity type and stores each activity type's collected data in a separate `type_activities.json` file, while the dump defaults to `all_activities.json` (which is set to be ignored). Each `type_activities.json` file uses the date of activity as the key. The supported activity types and corresponding collected data fields are below. 
+While `--raw-all` enables a dump of all activity data fetched from Strava, you likely do not need all of the data nor do you need to share all of the information publicly. The base version of this repository sets specific data fields to store per activity type and stores each activity type's collected data in a separate `type_activities.json` file in the `src/src_data` directory, while the dump defaults to `all_activities.json` in the same directory. **All data in `src/src_data` is default ignored; any data you wish to expose for visualizations must be moved or originally written to `data/`.** Each `type_activities.json` file uses the date of activity as the key. The supported activity types and corresponding collected data fields are below. 
 
 | Activity Type | Data Fields |
 | ------------- | ----------- |
