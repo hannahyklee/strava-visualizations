@@ -3,7 +3,7 @@
 ## Strava API Connection
 
 This repo assumes that you have your own Strava API application.
-Follow instructions [here](https://developers.strava.com/docs/getting-started/) to set up an application.
+Follow instructions [here](https://developers.strava.com/docs/getting-started/) to set one up.
 
 You will need to store your Strava client id, client secret, and refresh token.
 `strava_auth.py` assumes that these variables are saved in an `.env` file (`src/.env`), as the following:
@@ -14,7 +14,7 @@ STRAVA_CLIENT_SECRET=<client secret>
 STRAVA_REFRESH_TOKEN=<refresh token>
 ```
 
-When first authenticating, you will likely need to retrieve an authentication code with the proper scope and exchange it for a new refresh token and access token. This is to ensure that you have the correct scope to get activity data necessary for creating visualizations. 
+When first authenticating, you will likely need to retrieve an authentication code with the proper scope and exchange it for a new refresh token and access token. This is to ensure that you have the correct scope to get activity data. 
 
 To do this, follow the steps in Section D of the [Strava setup page](https://developers.strava.com/docs/getting-started/). In short:
 1. Go to `https://www.strava.com/oauth/authorize?client_id=[YOUR CLIENT ID]&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read,activity:read_all`
