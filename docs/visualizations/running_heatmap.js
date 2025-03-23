@@ -1,4 +1,8 @@
-document.addEventListener('DOMContentLoaded', function() {
+/**
+ * Running Heatmap Visualization
+ * Creates a GitHub-style activity heatmap for running data
+ */
+function createRunningHeatmap() {
     // Config
     const isMobile = window.innerWidth < 768;
 
@@ -39,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch(runningDataFile)
         .then(response => response.json())
         .then(data => {
-            console.log("Loaded Data:", data);
+            console.log("Loaded Running Data:", data);
             // First, calculate global max/min for consistent color scaling across all years
             let allMiles = [];
             const now = new Date();
@@ -228,49 +232,52 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     function addLegend(svg, maxMiles, colorScale, width, yOffset) {
-    const legendWidth = 200;
-    const legendHeight = 10;
+        const legendWidth = 200;
+        const legendHeight = 10;
 
-    const legend = svg.append('g')
-            .attr('class', 'legend')
-            .attr('transform', `translate(${(width - legendWidth)/2}, ${yOffset + 5})`); // Add 10px padding, Center the legend
-           
-    // Gradient definition
-    const defs = svg.append('defs');
-    const gradient = defs.append('linearGradient')
-        .attr('id', 'gradient')
-        .attr('x1', '0%').attr('x2', '100%')
-        .attr('y1', '0%').attr('y2', '0%');
+        const legend = svg.append('g')
+                .attr('class', 'legend')
+                .attr('transform', `translate(${(width - legendWidth)/2}, ${yOffset + 5})`); // Add 10px padding, Center the legend
+               
+        // Gradient definition
+        const defs = svg.append('defs');
+        const gradient = defs.append('linearGradient')
+            .attr('id', 'gradient')
+            .attr('x1', '0%').attr('x2', '100%')
+            .attr('y1', '0%').attr('y2', '0%');
 
-    d3.range(0, 1.1, 0.2).forEach(t => {
-        gradient.append('stop')
-            .attr('offset', `${t * 100}%`)
-            .attr('stop-color', colorScale(t * maxMiles));
-    });
+        d3.range(0, 1.1, 0.2).forEach(t => {
+            gradient.append('stop')
+                .attr('offset', `${t * 100}%`)
+                .attr('stop-color', colorScale(t * maxMiles));
+        });
 
-    // Legend bar
-    legend.append('rect')
-        .attr('width', legendWidth)
-        .attr('height', legendHeight)
-        .style('fill', 'url(#gradient)');
+        // Legend bar
+        legend.append('rect')
+            .attr('width', legendWidth)
+            .attr('height', legendHeight)
+            .style('fill', 'url(#gradient)');
 
-    // Legend axis
-    const legendScale = d3.scaleLinear()
-        .domain([0, maxMiles])
-        .range([0, legendWidth]);
+        // Legend axis
+        const legendScale = d3.scaleLinear()
+            .domain([0, maxMiles])
+            .range([0, legendWidth]);
 
-    legend.append('g')
-        .attr('transform', `translate(0, ${legendHeight})`)
-        .call(d3.axisBottom(legendScale).ticks(5).tickSize(6))
-        .selectAll('text')
-        .style('font-size', '8px');
+        legend.append('g')
+            .attr('transform', `translate(0, ${legendHeight})`)
+            .call(d3.axisBottom(legendScale).ticks(5).tickSize(6))
+            .selectAll('text')
+            .style('font-size', '8px');
 
-    // Legend title
-    legend.append('text')
-        .attr('x', legendWidth / 2)
-        .attr('y', -5)
-        .attr('text-anchor', 'middle')
-        .style('font-size', '10px')
-        .text('Miles Run');
+        // Legend title
+        legend.append('text')
+            .attr('x', legendWidth / 2)
+            .attr('y', -5)
+            .attr('text-anchor', 'middle')
+            .style('font-size', '10px')
+            .text('Miles Run');
+    }
 }
-});
+
+// Initialize when the DOM is ready
+document.addEventListener('DOMContentLoaded', createRunningHeatmap);
