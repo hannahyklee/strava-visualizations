@@ -62,7 +62,7 @@ While `--raw-all` enables a dump of all activity data fetched from Strava, you l
 
 | Activity Type | Data Fields |
 | ------------- | ----------- |
-| Run | `distance_miles`, `elapsed_time` (in seconds), `moving_time` (in seconds), `elevation_gain (in meters) |
+| Run | `distance_miles`, `elapsed_time` (in seconds), `moving_time` (in seconds), `elevation_gain` (in meters) |
 | WeightTraining | `elapsed_time` (in seconds)|
 
 ## Visualizations
