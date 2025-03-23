@@ -17,12 +17,17 @@ STRAVA_REFRESH_TOKEN=<refresh token>
 When first authenticating, you will likely need to retrieve an authentication code with the proper scope and exchange it for a new refresh token and access token. This is to ensure that you have the correct scope to get activity data. 
 
 To do this, follow the steps in Section D of the [Strava setup page](https://developers.strava.com/docs/getting-started/). In short:
-1. Go to `https://www.strava.com/oauth/authorize?client_id=[YOUR CLIENT ID]&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read,activity:read_all`
-2. Click `Authorize` 
-3. Copy the `code` variable from the URL (the page will say that the site can't be reached)
-4. Make a cURL request:
-    `curl -X POST https://www.strava.com/oauth/token -F client_id=<STRAVA_CLIENT_ID> -F client_secret=<STRAVA_CLIENT_SECRET> -F code=<CODE FROM STEP 3> -F grant_type=authorization_code`
-5. Replace your `STRAVA_REFRESH_TOKEN` variable with the new refresh token from step 4 that has the proper scope.
+1. Go to
+   ```
+   https://www.strava.com/oauth/authorize?client_id=[YOUR CLIENT ID]&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read,activity:read_all
+   ```
+3. Click `Authorize` 
+4. Copy the `code` variable from the URL (the page will say that the site can't be reached)
+5. Make a cURL request:
+   ```
+   curl -X POST https://www.strava.com/oauth/token -F client_id=<STRAVA_CLIENT_ID> -F client_secret=<STRAVA_CLIENT_SECRET> -F code=<CODE FROM STEP 3> -F grant_type=authorization_code
+   ```
+7. Replace your `STRAVA_REFRESH_TOKEN` variable with the new refresh token from step 4 that has the proper scope.
 
 Running `strava_auth.py` should run without error.
 
