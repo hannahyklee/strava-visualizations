@@ -63,9 +63,6 @@ def process_activities(activities, activity_type):
         if activity['type'] == activity_type == "Run":
             data_entry = {
                 "distance_miles": activity['distance'] * 0.000621371, # meters to miles
-                "elapsed_time": activity['elapsed_time'], # seconds
-                "moving_time": activity['moving_time'], # seconds
-                "elevation_gain": activity.get('total_elevation_gain', 0)
             }
         elif activity['type'] == activity_type == "WeightTraining":
             data_entry = {

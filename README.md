@@ -27,9 +27,10 @@ To do this, follow the steps in Section D of the [Strava setup page](https://dev
    ```
    curl -X POST https://www.strava.com/oauth/token -F client_id=<STRAVA_CLIENT_ID> -F client_secret=<STRAVA_CLIENT_SECRET> -F code=<CODE FROM STEP 3> -F grant_type=authorization_code
    ```
-7. Replace your `STRAVA_REFRESH_TOKEN` variable with the new refresh token from step 4 that has the proper scope.
+6. Replace your `STRAVA_REFRESH_TOKEN` variable with the new refresh token from step 4 that has the proper scope.
 
-Running `strava_auth.py` should run without error.
+
+Running `strava_auth.py` should run without error (if running with the proper packages; `conda env create --file=environment.yml` from root should create a sufficient environment.)
 
 ## Fetching Strava Data
 
