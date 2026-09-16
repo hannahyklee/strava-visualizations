@@ -35,7 +35,11 @@ def fetch_activities(access_token, after=None, before=None):
             print("Rate limited. Waiting 15 minutes...")
             time.sleep(900)  # Wait 15 minutes
             continue
-            
+
+        if response.status_code != 200:
+            print(f"Error fetching activities (status {response.status_code}): {response.text}")
+            break
+
         new_activities = response.json()
         
         if not new_activities:
